@@ -1,0 +1,204 @@
+﻿id,role_name,discipline
+1,Software Engineer,Engineering
+2,Data Analyst,Data Science & Analytics
+3,Senior Manager,Unknown
+4,Sales Associate,Sales
+5,Director,Unknown
+6,Marketing Analyst,Marketing
+7,Product Manager,Product
+8,Sales Manager,Sales
+9,Marketing Coordinator,Marketing
+10,Senior Scientist,Unknown
+11,Software Developer,Engineering
+12,HR Manager,Talent Acquisition
+13,Financial Analyst,Finance
+14,Project Manager,Delivery
+15,Customer Service Rep,Customer Service
+16,Operations Manager,Operations
+17,Marketing Manager,Marketing
+18,Senior Engineer,Engineering
+19,Data Entry Clerk,Admin
+20,Sales Director,Sales
+21,Business Analyst,Delivery
+22,VP of Operations,Operations
+23,IT Support,IT
+24,Recruiter,Talent Acquisition
+25,Financial Manager,Finance
+26,Social Media Specialist,Social Media
+27,Software Manager,Engineering
+28,Junior Developer,Engineering
+29,Senior Consultant,Consulting
+30,Product Designer,UX & Design
+31,CEO,Senior Executive
+32,Accountant,Finance
+33,Data Scientist,Data Science & Analytics
+34,Marketing Specialist,Marketing
+35,Technical Writer,Content
+36,HR Generalist,Talent Acquisition
+37,Project Engineer,Engineering
+38,Customer Success Rep,Customer Service
+39,Sales Executive,Sales
+40,UX Designer,UX & Design
+41,Operations Director,Operations
+42,Network Engineer,Engineering
+43,Administrative Assistant,Admin
+44,Strategy Consultant,Consulting
+45,Copywriter,Content
+46,Account Manager,Sales
+47,Director of Marketing,Marketing
+48,Help Desk Analyst,IT
+49,Customer Service Manager,Customer Service
+50,Business Intelligence Analyst,Data Science & Analytics
+51,Event Coordinator,Unknown
+52,VP of Finance,Finance
+53,Graphic Designer,UX & Design
+54,UX Researcher,UX & Design
+55,Social Media Manager,Social Media
+56,Director of Operations,Operations
+57,Senior Data Scientist,Data Science & Analytics
+58,Junior Accountant,Finance
+59,Digital Marketing Manager,Marketing
+60,IT Manager,IT
+61,Customer Service Representative,Customer Service
+62,Business Development Manager,Sales
+63,Senior Financial Analyst,Finance
+64,Web Developer,Engineering
+65,Research Director,Unknown
+66,Technical Support Specialist,IT
+67,Creative Director,UX & Design
+68,Senior Software Engineer,Engineering
+69,Human Resources Director,Talent Acquisition
+70,Content Marketing Manager,Marketing
+71,Technical Recruiter,Talent Acquisition
+72,Sales Representative,Sales
+73,Chief Technology Officer,Senior Executive
+74,Junior Designer,UX & Design
+75,Financial Advisor,Finance
+76,Junior Account Manager,Finance
+77,Senior Project Manager,Delivery
+78,Principal Scientist,Unknown
+79,Supply Chain Manager,Operations
+80,Senior Marketing Manager,Marketing
+81,Training Specialist,Unknown
+82,Research Scientist,Unknown
+83,Junior Software Developer,Engineering
+84,Public Relations Manager,Public Relations
+85,Operations Analyst,Operations
+86,Product Marketing Manager,Marketing
+87,Senior HR Manager,Talent Acquisition
+88,Junior Web Developer,Engineering
+89,Senior Project Coordinator,Delivery
+90,Chief Data Officer,Senior Executive
+91,Digital Content Producer,Content
+92,IT Support Specialist,IT
+93,Senior Marketing Analyst,Marketing
+94,Customer Success Manager,Customer Service
+95,Senior Graphic Designer,UX & Design
+96,Software Project Manager,Delivery
+97,Supply Chain Analyst,Operations
+98,Senior Business Analyst,Delivery
+99,Junior Marketing Analyst,Marketing
+100,Office Manager,Admin
+101,Principal Engineer,Engineering
+102,Junior HR Generalist,Talent Acquisition
+103,Senior Product Manager,Product
+104,Junior Operations Analyst,Operations
+105,Senior HR Generalist,Talent Acquisition
+106,Sales Operations Manager,Operations
+107,Senior Software Developer,Engineering
+108,Junior Web Designer,Engineering
+109,Senior Training Specialist,Unknown
+110,Senior Research Scientist,Unknown
+111,Junior Sales Representative,Sales
+112,Junior Marketing Manager,Marketing
+113,Junior Data Analyst,Data Science & Analytics
+114,Senior Product Marketing Manager,Marketing
+115,Junior Business Analyst,Delivery
+116,Senior Sales Manager,Sales
+117,Junior Marketing Specialist,Marketing
+118,Junior Project Manager,Delivery
+119,Senior Accountant,Finance
+120,Director of Sales,Sales
+121,Junior Recruiter,Talent Acquisition
+122,Senior Business Development Manager,Sales
+123,Senior Product Designer,UX & Design
+124,Junior Customer Support Specialist,Customer Service
+125,Senior IT Support Specialist,IT
+126,Junior Financial Analyst,Finance
+127,Senior Operations Manager,Operations
+128,Director of Human Resources,Talent Acquisition
+129,Junior Software Engineer,Engineering
+130,Senior Sales Representative,Sales
+131,Director of Product Management,Product
+132,Junior Copywriter,Content
+133,Senior Marketing Coordinator,Marketing
+134,Senior Human Resources Manager,Talent Acquisition
+135,Junior Business Development Associate,Sales
+136,Senior Account Manager,Sales
+137,Senior Researcher,Unknown
+138,Junior HR Coordinator,Talent Acquisition
+139,Director of Finance,Finance
+140,Junior Marketing Coordinator,Marketing
+141,Junior Data Scientist,Data Science & Analytics
+142,Senior Operations Analyst,Operations
+143,Senior Human Resources Coordinator,Talent Acquisition
+144,Senior UX Designer,UX & Design
+145,Junior Product Manager,Product
+146,Senior Marketing Specialist,Marketing
+147,Senior IT Project Manager,Delivery
+148,Senior Quality Assurance Analyst,Testing
+149,Director of Sales and Marketing,Sales
+150,Senior Account Executive,Sales
+151,Director of Business Development,Sales
+152,Junior Social Media Manager,Social Media
+153,Senior Human Resources Specialist,Talent Acquisition
+154,Senior Data Analyst,Data Science & Analytics
+155,Director of Human Capital,Talent Acquisition
+156,Junior Advertising Coordinator,Unknown
+157,Junior UX Designer,UX & Design
+158,Senior Marketing Director,Marketing
+159,Senior IT Consultant,IT
+160,Senior Financial Advisor,Finance
+161,Junior Business Operations Analyst,Operations
+162,Junior Social Media Specialist,Social Media
+163,Senior Product Development Manager,Sales
+164,Junior Operations Manager,Operations
+165,Senior Software Architect,Architecture
+166,Junior Research Scientist,Unknown
+167,Senior Financial Manager,Finance
+168,Senior HR Specialist,Talent Acquisition
+169,Senior Data Engineer,Data Science & Analytics
+170,Junior Operations Coordinator,Operations
+171,Director of HR,Talent Acquisition
+172,Senior Operations Coordinator,Operations
+173,Junior Financial Advisor,Finance
+174,Director of Engineering,Engineering
+175,Software Engineer Manager,Engineering
+176,Back end Developer,Engineering
+177,Senior Project Engineer,Engineering
+178,Full Stack Engineer,Engineering
+179,Front end Developer,Engineering
+180,Developer,Engineering
+181,Director of Data Science,Data Science & Analytics
+182,Human Resources Coordinator,Talent Acquisition
+183,Junior Sales Associate,Sales
+184,Human Resources Manager,Talent Acquisition
+185,Juniour HR Generalist,Talent Acquisition
+186,Juniour HR Coordinator,Talent Acquisition
+187,Digital Marketing Specialist,Marketing
+188,Receptionist,Admin
+189,Marketing Director,Marketing
+190,Social Media Man,Social Media
+191,Delivery Driver,Unknown
+192,Product Manager ,Product
+193,Delivery Lead ,Delivery
+194,Senior Data Engineer ,Data Science & Analytics
+195,Software Engineer I ,Engineering
+196,Data Analyst ,Data Science & Analytics
+197,Senior Product Manager ,Product
+198,Software Engineer ,Engineering
+199,Junior Designer ,UX & Design
+200,Data Product Manager ,Product
+201,Product Development Analyst,Data Science & Analytics
+202,Director ,Unknown
+203,Product owner ,Product

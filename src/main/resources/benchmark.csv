@@ -1,0 +1,653 @@
+﻿id,level,role_name,role_family,specialisation,company,company_size,industry,employment_type,pay_frequency,min_range,max_range,currency,country
+1,mid-level,Senior Software Engineer ,Software Engineering,Java ,general,general,general,permenant,annual,80000,120000,gbp,UK
+2,mid-level,Senior Software Engineer ,Software Engineering,Frontend JavaScript ,general,general,general,permenant,annual,75000,120000,gbp,UK
+3,mid-level,Senior Software Engineer ,Software Engineering,Backend JavaScript ,general,general,general,permenant,annual,90000,120000,gbp,UK
+4,mid-level,Senior Software Engineer ,Software Engineering,Full-stack JavaScript ,general,general,general,permenant,annual,90000,120000,gbp,UK
+5,mid-level,Senior Software Engineer ,Software Engineering,.Net,general,general,general,permenant,annual,80000,120000,gbp,UK
+6,mid-level,Senior Software Engineer ,Software Engineering,C# ,general,general,general,permenant,annual,80000,120000,gbp,UK
+7,mid-level,Senior Software Engineer ,Software Engineering,Scala ,general,general,general,permenant,annual,80000,120000,gbp,UK
+8,mid-level,Senior Software Engineer ,Software Engineering,Golang ,general,general,general,permenant,annual,80000,100000,gbp,UK
+9,mid-level,Senior Software Engineer ,Software Engineering,Kotlin ,general,general,general,permenant,annual,95000,120000,gbp,UK
+10,mid-level,Senior Software Engineer ,Software Engineering,PHP ,general,general,general,permenant,annual,60000,80000,gbp,UK
+11,mid-level,Senior Software Engineer ,Software Engineering,Python ,general,general,general,permenant,annual,70000,100000,gbp,UK
+12,mid-level,Senior Software Engineer ,Software Engineering,Data ,general,general,general,permenant,annual,80000,100000,gbp,UK
+13,mid-level,Senior Software Engineer ,Software Engineering,C++ ,general,general,general,permenant,annual,80000,110000,gbp,UK
+14,mid-level,Senior Software Engineer ,Software Engineering,Ruby ,general,general,general,permenant,annual,70000,90000,gbp,UK
+15,mid-level,Senior Software Engineer ,Software Engineering,Clojure ,general,general,general,permenant,annual,80000,100000,gbp,UK
+16,mid-level,Senior Software Engineer ,Software Engineering,iOS ,general,general,general,permenant,annual,80000,120000,gbp,UK
+17,mid-level,Senior Software Engineer ,Software Engineering,Android ,general,general,general,permenant,annual,80000,120000,gbp,UK
+18,mid-level,Senior Software Engineer ,Software Engineering,React Native ,general,general,general,permenant,annual,80000,130000,gbp,UK
+19,mid-level,Senior Software Engineer ,Software Engineering,Flutter ,general,general,general,permenant,annual,80000,125000,gbp,UK
+20,mid-level,Senior Software Engineer ,Software Engineering,Java ,general,general,general,permenant,day rate,550,700,gbp,UK
+21,mid-level,Senior Software Engineer ,Software Engineering,Frontend JavaScript ,general,general,general,permenant,day rate,500,650,gbp,UK
+22,mid-level,Senior Software Engineer ,Software Engineering,Backend JavaScript ,general,general,general,permenant,day rate,500,750,gbp,UK
+23,mid-level,Senior Software Engineer ,Software Engineering,Full-stack JavaScript ,general,general,general,permenant,day rate,500,750,gbp,UK
+24,mid-level,Senior Software Engineer ,Software Engineering,.Net,general,general,general,permenant,day rate,550,600,gbp,UK
+25,mid-level,Senior Software Engineer ,Software Engineering,C# ,general,general,general,permenant,day rate,550,600,gbp,UK
+26,mid-level,Senior Software Engineer ,Software Engineering,Scala ,general,general,general,permenant,day rate,600,700,gbp,UK
+27,mid-level,Senior Software Engineer ,Software Engineering,Golang ,general,general,general,permenant,day rate,600,700,gbp,UK
+28,mid-level,Senior Software Engineer ,Software Engineering,Kotlin ,general,general,general,permenant,day rate,600,750,gbp,UK
+29,mid-level,Senior Software Engineer ,Software Engineering,PHP ,general,general,general,permenant,day rate,500,600,gbp,UK
+30,mid-level,Senior Software Engineer ,Software Engineering,Python ,general,general,general,permenant,day rate,600,700,gbp,UK
+31,mid-level,Senior Software Engineer ,Software Engineering,Data ,general,general,general,permenant,day rate,700,800,gbp,UK
+32,mid-level,Senior Software Engineer ,Software Engineering,C++ ,general,general,general,permenant,day rate,600,700,gbp,UK
+33,mid-level,Senior Software Engineer ,Software Engineering,Ruby ,general,general,general,permenant,day rate,450,600,gbp,UK
+34,mid-level,Senior Software Engineer ,Software Engineering,Clojure ,general,general,general,permenant,day rate,700,800,gbp,UK
+35,mid-level,Senior Software Engineer ,Software Engineering,iOS ,general,general,general,permenant,day rate,550,650,gbp,UK
+36,mid-level,Senior Software Engineer ,Software Engineering,Android ,general,general,general,permenant,day rate,550,650,gbp,UK
+37,mid-level,Senior Software Engineer ,Software Engineering,React Native ,general,general,general,permenant,day rate,600,750,gbp,UK
+38,mid-level,Senior Software Engineer ,Software Engineering,Flutter ,general,general,general,permenant,day rate,600,750,gbp,UK
+39,mid-level,Senior Software Engineer ,Software Engineering,Java ,general,general,general,contractor,day rate,700,850,gbp,UK
+40,mid-level,Senior Software Engineer ,Software Engineering,Frontend JavaScript ,general,general,general,contractor,day rate,700,800,gbp,UK
+41,mid-level,Senior Software Engineer ,Software Engineering,Backend JavaScript ,general,general,general,contractor,day rate,700,900,gbp,UK
+42,mid-level,Senior Software Engineer ,Software Engineering,Full-stack JavaScript ,general,general,general,contractor,day rate,700,900,gbp,UK
+43,mid-level,Senior Software Engineer ,Software Engineering,.Net,general,general,general,contractor,day rate,650,750,gbp,UK
+44,mid-level,Senior Software Engineer ,Software Engineering,C# ,general,general,general,contractor,day rate,650,750,gbp,UK
+45,mid-level,Senior Software Engineer ,Software Engineering,Scala ,general,general,general,contractor,day rate,750,850,gbp,UK
+46,mid-level,Senior Software Engineer ,Software Engineering,Golang ,general,general,general,contractor,day rate,700,750,gbp,UK
+47,mid-level,Senior Software Engineer ,Software Engineering,Kotlin ,general,general,general,contractor,day rate,700,900,gbp,UK
+48,mid-level,Senior Software Engineer ,Software Engineering,PHP ,general,general,general,contractor,day rate,600,750,gbp,UK
+49,mid-level,Senior Software Engineer ,Software Engineering,Python ,general,general,general,contractor,day rate,700,900,gbp,UK
+50,mid-level,Senior Software Engineer ,Software Engineering,Data ,general,general,general,contractor,day rate,800,950,gbp,UK
+51,mid-level,Senior Software Engineer ,Software Engineering,C++ ,general,general,general,contractor,day rate,700,850,gbp,UK
+52,mid-level,Senior Software Engineer ,Software Engineering,Ruby ,general,general,general,contractor,day rate,650,800,gbp,UK
+53,mid-level,Senior Software Engineer ,Software Engineering,Clojure ,general,general,general,contractor,day rate,800,950,gbp,UK
+54,mid-level,Senior Software Engineer ,Software Engineering,iOS ,general,general,general,contractor,day rate,700,800,gbp,UK
+55,mid-level,Senior Software Engineer ,Software Engineering,Android ,general,general,general,contractor,day rate,700,800,gbp,UK
+56,mid-level,Senior Software Engineer ,Software Engineering,React Native ,general,general,general,contractor,day rate,750,900,gbp,UK
+57,mid-level,Senior Software Engineer ,Software Engineering,Flutter ,general,general,general,contractor,day rate,750,900,gbp,UK
+58,mid-level,Mid-level Software Engineer ,Software Engineering,Java ,general,general,general,permenant,annual,60000,80000,gbp,UK
+59,mid-level,Mid-level Software Engineer ,Software Engineering,Frontend JavaScript ,general,general,general,permenant,annual,60000,75000,gbp,UK
+60,mid-level,Mid-level Software Engineer ,Software Engineering,Backend JavaScript ,general,general,general,permenant,annual,60000,80000,gbp,UK
+61,mid-level,Mid-level Software Engineer ,Software Engineering,Full-stack JavaScript ,general,general,general,permenant,annual,60000,80000,gbp,UK
+62,mid-level,Mid-level Software Engineer ,Software Engineering,.Net,general,general,general,permenant,annual,50000,75000,gbp,UK
+63,mid-level,Mid-level Software Engineer ,Software Engineering,C# ,general,general,general,permenant,annual,50000,75000,gbp,UK
+64,mid-level,Mid-level Software Engineer ,Software Engineering,Scala ,general,general,general,permenant,annual,60000,80000,gbp,UK
+65,mid-level,Mid-level Software Engineer ,Software Engineering,Golang ,general,general,general,permenant,annual,60000,80000,gbp,UK
+66,mid-level,Mid-level Software Engineer ,Software Engineering,Kotlin ,general,general,general,permenant,annual,70000,85000,gbp,UK
+67,mid-level,Mid-level Software Engineer ,Software Engineering,PHP ,general,general,general,permenant,annual,45000,60000,gbp,UK
+68,mid-level,Mid-level Software Engineer ,Software Engineering,Python ,general,general,general,permenant,annual,50000,70000,gbp,UK
+69,mid-level,Mid-level Software Engineer ,Software Engineering,Data ,general,general,general,permenant,annual,60000,80000,gbp,UK
+70,mid-level,Mid-level Software Engineer ,Software Engineering,C++ ,general,general,general,permenant,annual,60000,80000,gbp,UK
+71,mid-level,Mid-level Software Engineer ,Software Engineering,Ruby ,general,general,general,permenant,annual,50000,70000,gbp,UK
+72,mid-level,Mid-level Software Engineer ,Software Engineering,Clojure ,general,general,general,permenant,annual,60000,80000,gbp,UK
+73,mid-level,Mid-level Software Engineer ,Software Engineering,iOS ,general,general,general,permenant,annual,60000,80000,gbp,UK
+74,mid-level,Mid-level Software Engineer ,Software Engineering,Android ,general,general,general,permenant,annual,60000,80000,gbp,UK
+75,mid-level,Mid-level Software Engineer ,Software Engineering,React Native ,general,general,general,permenant,annual,65000,85000,gbp,UK
+76,mid-level,Mid-level Software Engineer ,Software Engineering,Flutter ,general,general,general,permenant,annual,65000,85000,gbp,UK
+77,mid-level,Mid-level Software Engineer ,Software Engineering,Java ,general,general,general,permenant,day rate,500,600,gbp,UK
+78,mid-level,Mid-level Software Engineer ,Software Engineering,Frontend JavaScript ,general,general,general,permenant,day rate,450,550,gbp,UK
+79,mid-level,Mid-level Software Engineer ,Software Engineering,Backend JavaScript ,general,general,general,permenant,day rate,500,600,gbp,UK
+80,mid-level,Mid-level Software Engineer ,Software Engineering,Full-stack JavaScript ,general,general,general,permenant,day rate,500,600,gbp,UK
+81,mid-level,Mid-level Software Engineer ,Software Engineering,.Net,general,general,general,permenant,day rate,450,550,gbp,UK
+82,mid-level,Mid-level Software Engineer ,Software Engineering,C# ,general,general,general,permenant,day rate,450,550,gbp,UK
+83,mid-level,Mid-level Software Engineer ,Software Engineering,Scala ,general,general,general,permenant,day rate,500,600,gbp,UK
+84,mid-level,Mid-level Software Engineer ,Software Engineering,Golang ,general,general,general,permenant,day rate,500,600,gbp,UK
+85,mid-level,Mid-level Software Engineer ,Software Engineering,Kotlin ,general,general,general,permenant,day rate,550,600,gbp,UK
+86,mid-level,Mid-level Software Engineer ,Software Engineering,PHP ,general,general,general,permenant,day rate,400,500,gbp,UK
+87,mid-level,Mid-level Software Engineer ,Software Engineering,Python ,general,general,general,permenant,day rate,500,600,gbp,UK
+88,mid-level,Mid-level Software Engineer ,Software Engineering,Data ,general,general,general,permenant,day rate,600,700,gbp,UK
+89,mid-level,Mid-level Software Engineer ,Software Engineering,C++ ,general,general,general,permenant,day rate,500,600,gbp,UK
+90,mid-level,Mid-level Software Engineer ,Software Engineering,Ruby ,general,general,general,permenant,day rate,350,450,gbp,UK
+91,mid-level,Mid-level Software Engineer ,Software Engineering,Clojure ,general,general,general,permenant,day rate,600,700,gbp,UK
+92,mid-level,Mid-level Software Engineer ,Software Engineering,iOS ,general,general,general,permenant,day rate,450,550,gbp,UK
+93,mid-level,Mid-level Software Engineer ,Software Engineering,Android ,general,general,general,permenant,day rate,450,550,gbp,UK
+94,mid-level,Mid-level Software Engineer ,Software Engineering,React Native ,general,general,general,permenant,day rate,500,600,gbp,UK
+95,mid-level,Mid-level Software Engineer ,Software Engineering,Flutter ,general,general,general,permenant,day rate,500,600,gbp,UK
+96,mid-level,Mid-level Software Engineer ,Software Engineering,Java ,general,general,general,contractor,day rate,650,700,gbp,UK
+97,mid-level,Mid-level Software Engineer ,Software Engineering,Frontend JavaScript ,general,general,general,contractor,day rate,600,700,gbp,UK
+98,mid-level,Mid-level Software Engineer ,Software Engineering,Backend JavaScript ,general,general,general,contractor,day rate,650,750,gbp,UK
+99,mid-level,Mid-level Software Engineer ,Software Engineering,Full-stack JavaScript ,general,general,general,contractor,day rate,650,750,gbp,UK
+100,mid-level,Mid-level Software Engineer ,Software Engineering,.Net,general,general,general,contractor,day rate,600,650,gbp,UK
+101,mid-level,Mid-level Software Engineer ,Software Engineering,C# ,general,general,general,contractor,day rate,600,650,gbp,UK
+102,mid-level,Mid-level Software Engineer ,Software Engineering,Scala ,general,general,general,contractor,day rate,700,850,gbp,UK
+103,mid-level,Mid-level Software Engineer ,Software Engineering,Golang ,general,general,general,contractor,day rate,600,700,gbp,UK
+104,mid-level,Mid-level Software Engineer ,Software Engineering,Kotlin ,general,general,general,contractor,day rate,700,800,gbp,UK
+105,mid-level,Mid-level Software Engineer ,Software Engineering,PHP ,general,general,general,contractor,day rate,550,650,gbp,UK
+106,mid-level,Mid-level Software Engineer ,Software Engineering,Python ,general,general,general,contractor,day rate,600,700,gbp,UK
+107,mid-level,Mid-level Software Engineer ,Software Engineering,Data ,general,general,general,contractor,day rate,700,800,gbp,UK
+108,mid-level,Mid-level Software Engineer ,Software Engineering,C++ ,general,general,general,contractor,day rate,600,700,gbp,UK
+109,mid-level,Mid-level Software Engineer ,Software Engineering,Ruby ,general,general,general,contractor,day rate,500,600,gbp,UK
+110,mid-level,Mid-level Software Engineer ,Software Engineering,Clojure ,general,general,general,contractor,day rate,700,800,gbp,UK
+111,mid-level,Mid-level Software Engineer ,Software Engineering,iOS ,general,general,general,contractor,day rate,600,700,gbp,UK
+112,mid-level,Mid-level Software Engineer ,Software Engineering,Android ,general,general,general,contractor,day rate,600,700,gbp,UK
+113,mid-level,Mid-level Software Engineer ,Software Engineering,React Native ,general,general,general,contractor,day rate,650,750,gbp,UK
+114,mid-level,Mid-level Software Engineer ,Software Engineering,Flutter ,general,general,general,contractor,day rate,650,750,gbp,UK
+115,lead,Principal Software Engineer ,Software Engineering,general,general,general,general,permenant,annual,120000,175000,gbp,UK
+116,lead,Lead Software Engineer ,Software Engineering,general,general,general,general,permenant,annual,95000,125000,gbp,UK
+117,lead,Principal Software Engineer ,Software Engineering,general,general,general,general,contractor,day rate,800,1000,gbp,UK
+118,lead,Lead Software Engineer ,Software Engineering,general,general,general,general,contractor,day rate,750,900,gbp,UK
+119,lead,Principal Software Engineer ,Software Engineering,general,general,general,general,permenant,day rate,750,900,gbp,UK
+120,lead,Lead Software Engineer ,Software Engineering,general,general,general,general,permenant,day rate,600,750,gbp,UK
+121,junior,Junior Level Developer,Software Engineering,general,general,general,general,permenant,annual,40000,60000,gbp,UK
+122,junior,Entry Level Developer,Software Engineering,general,general,general,general,permenant,annual,30000,40000,gbp,UK
+123,junior,Junior Level Developer,Software Engineering,general,general,general,general,permenant,day rate,350,450,gbp,UK
+124,junior,Junior Level Developer,Software Engineering,general,general,general,general,permenant,day rate,450,550,gbp,UK
+125,lead,Principal/Chief ,Data Science & Analytics,general,general,general,general,permenant,annual,100000,150000,gbp,UK
+126,lead,Principal/Chief ,Data Science & Analytics,general,general,general,general,permenant,day rate,700,900,gbp,UK
+127,lead,Principal/Chief ,Data Science & Analytics,general,general,general,general,contractor,day rate,850,1200,gbp,UK
+128,senior,Data Scientist ,Data Science & Analytics,general,general,general,general,permenant,annual,90000,130000,gbp,UK
+129,senior,Data Scientist ,Data Science & Analytics,general,general,general,general,permenant,day rate,700,900,gbp,UK
+130,senior,Data Scientist ,Data Science & Analytics,general,general,general,general,contractor,day rate,850,1000,gbp,UK
+131,senior,ML Engineer ,Data Science & Analytics,general,general,general,general,permenant,annual,90000,120000,gbp,UK
+132,senior,ML Engineer ,Data Science & Analytics,general,general,general,general,permenant,day rate,700,900,gbp,UK
+133,senior,ML Engineer ,Data Science & Analytics,general,general,general,general,contractor,day rate,850,1000,gbp,UK
+134,senior,AI Engineer ,Data Science & Analytics,general,general,general,general,permenant,annual,80000,120000,gbp,UK
+135,senior,AI Engineer ,Data Science & Analytics,general,general,general,general,permenant,day rate,700,900,gbp,UK
+136,senior,AI Engineer ,Data Science & Analytics,general,general,general,general,contractor,day rate,850,1000,gbp,UK
+137,senior,Data Analyst ,Data Science & Analytics,general,general,general,general,permenant,annual,60000,80000,gbp,UK
+138,senior,Data Analyst ,Data Science & Analytics,general,general,general,general,permenant,day rate,450,650,gbp,UK
+139,senior,Data Analyst ,Data Science & Analytics,general,general,general,general,contractor,day rate,600,750,gbp,UK
+140,senior,BI Analyst ,Data Science & Analytics,general,general,general,general,permenant,annual,60000,80000,gbp,UK
+141,senior,BI Analyst ,Data Science & Analytics,general,general,general,general,permenant,day rate,400,600,gbp,UK
+142,senior,BI Analyst ,Data Science & Analytics,general,general,general,general,contractor,day rate,500,700,gbp,UK
+143,mid-level,Data Scientist ,Data Science & Analytics,general,general,general,general,permenant,annual,65000,85000,gbp,UK
+144,mid-level,Data Scientist ,Data Science & Analytics,general,general,general,general,permenant,day rate,500,700,gbp,UK
+145,mid-level,Data Scientist ,Data Science & Analytics,general,general,general,general,contractor,day rate,600,800,gbp,UK
+146,mid-level,ML Engineer ,Data Science & Analytics,general,general,general,general,permenant,annual,65000,85000,gbp,UK
+147,mid-level,ML Engineer ,Data Science & Analytics,general,general,general,general,permenant,day rate,500,700,gbp,UK
+148,mid-level,ML Engineer ,Data Science & Analytics,general,general,general,general,contractor,day rate,600,800,gbp,UK
+149,mid-level,AI Engineer ,Data Science & Analytics,general,general,general,general,permenant,annual,65000,85000,gbp,UK
+150,mid-level,AI Engineer ,Data Science & Analytics,general,general,general,general,permenant,day rate,500,700,gbp,UK
+151,mid-level,AI Engineer ,Data Science & Analytics,general,general,general,general,contractor,day rate,600,800,gbp,UK
+152,mid-level,Data Analyst ,Data Science & Analytics,general,general,general,general,permenant,annual,55000,65000,gbp,UK
+153,mid-level,Data Analyst ,Data Science & Analytics,general,general,general,general,permenant,day rate,250,450,gbp,UK
+154,mid-level,Data Analyst ,Data Science & Analytics,general,general,general,general,contractor,day rate,350,550,gbp,UK
+155,mid-level,BI Analyst ,Data Science & Analytics,general,general,general,general,permenant,annual,40000,50000,gbp,UK
+156,mid-level,BI Analyst ,Data Science & Analytics,general,general,general,general,permenant,day rate,300,400,gbp,UK
+157,mid-level,BI Analyst ,Data Science & Analytics,general,general,general,general,contractor,day rate,400,600,gbp,UK
+158,junior,Junior/Graduate ,Data Science & Analytics,general,general,general,general,permenant,annual,30000,50000,gbp,UK
+159,junior,Junior/Graduate ,Data Science & Analytics,general,general,general,general,permenant,day rate,200,300,gbp,UK
+160,junior,Junior/Graduate ,Data Science & Analytics,general,general,general,general,contractor,day rate,300,400,gbp,UK
+161,lead,Principal Architect ,Architecture,general,general,general,general,permenant,annual,120000,150000,gbp,UK
+162,lead,Principal Architect ,Architecture,general,general,general,general,permenant,day rate,800,1200,gbp,UK
+163,lead,Principal Architect ,Architecture,general,general,general,general,contractor,day rate,1000,1500,gbp,UK
+164,lead,Lead Architect ,Architecture,general,general,general,general,permenant,annual,110000,130000,gbp,UK
+165,lead,Lead Architect ,Architecture,general,general,general,general,permenant,day rate,700,800,gbp,UK
+166,lead,Lead Architect ,Architecture,general,general,general,general,contractor,day rate,800,1000,gbp,UK
+167,lead,Enterprise Architect ,Architecture,general,general,general,general,permenant,annual,90000,140000,gbp,UK
+168,lead,Enterprise Architect ,Architecture,general,general,general,general,permenant,day rate,750,900,gbp,UK
+169,lead,Enterprise Architect ,Architecture,general,general,general,general,contractor,day rate,850,1000,gbp,UK
+170,lead,Solutions Architect ,Architecture,general,general,general,general,permenant,annual,90000,120000,gbp,UK
+171,lead,Solutions Architect ,Architecture,general,general,general,general,permenant,day rate,600,750,gbp,UK
+172,lead,Solutions Architect ,Architecture,general,general,general,general,contractor,day rate,750,1000,gbp,UK
+173,lead,Technical Architect ,Architecture,general,general,general,general,permenant,annual,95000,140000,gbp,UK
+174,lead,Technical Architect ,Architecture,general,general,general,general,permenant,day rate,650,850,gbp,UK
+175,lead,Technical Architect ,Architecture,general,general,general,general,contractor,day rate,900,1200,gbp,UK
+176,lead,Cloud Architect ,Architecture,general,general,general,general,permenant,annual,95000,150000,gbp,UK
+177,lead,Cloud Architect ,Architecture,general,general,general,general,permenant,day rate,600,1000,gbp,UK
+178,lead,Cloud Architect ,Architecture,general,general,general,general,contractor,day rate,800,1200,gbp,UK
+179,lead,Data Architect ,Architecture,general,general,general,general,permenant,annual,90000,120000,gbp,UK
+180,lead,Data Architect ,Architecture,general,general,general,general,permenant,day rate,600,850,gbp,UK
+181,lead,Data Architect ,Architecture,general,general,general,general,contractor,day rate,800,1000,gbp,UK
+182,lead,DevOps Manager ,Infrastructure,general,general,general,general,permenant,annual,110000,140000,gbp,UK
+183,lead,DevOps Manager ,Infrastructure,general,general,general,general,permenant,day rate,900,1100,gbp,UK
+184,lead,DevOps Manager ,Infrastructure,general,general,general,general,contractor,day rate,1000,1200,gbp,UK
+185,lead,DevOps Lead ,Infrastructure,general,general,general,general,permenant,annual,100000,120000,gbp,UK
+186,lead,DevOps Lead ,Infrastructure,general,general,general,general,permenant,day rate,750,900,gbp,UK
+187,lead,DevOps Lead ,Infrastructure,general,general,general,general,contractor,day rate,850,1100,gbp,UK
+188,mid-level,Senior DevOps Engineer ,Infrastructure,general,general,general,general,permenant,annual,80000,110000,gbp,UK
+189,mid-level,Senior DevOps Engineer ,Infrastructure,general,general,general,general,permenant,day rate,650,800,gbp,UK
+190,mid-level,Senior DevOps Engineer ,Infrastructure,general,general,general,general,contractor,day rate,750,1000,gbp,UK
+191,mid-level,Senior Site Reliability Engineer ,Infrastructure,general,general,general,general,permenant,annual,80000,110000,gbp,UK
+192,mid-level,Senior Site Reliability Engineer ,Infrastructure,general,general,general,general,permenant,day rate,650,800,gbp,UK
+193,mid-level,Senior Site Reliability Engineer ,Infrastructure,general,general,general,general,contractor,day rate,750,1000,gbp,UK
+194,mid-level,Senior Platform Engineer ,Infrastructure,general,general,general,general,permenant,annual,80000,110000,gbp,UK
+195,mid-level,Senior Platform Engineer ,Infrastructure,general,general,general,general,permenant,day rate,650,800,gbp,UK
+196,mid-level,Senior Platform Engineer ,Infrastructure,general,general,general,general,contractor,day rate,750,1000,gbp,UK
+197,mid-level,DevOps Engineer ,Infrastructure,general,general,general,general,permenant,annual,60000,80000,gbp,UK
+198,mid-level,DevOps Engineer ,Infrastructure,general,general,general,general,permenant,day rate,500,650,gbp,UK
+199,mid-level,DevOps Engineer ,Infrastructure,general,general,general,general,contractor,day rate,600,850,gbp,UK
+200,mid-level,Site Reliability Engineer ,Infrastructure,general,general,general,general,permenant,annual,60000,80000,gbp,UK
+201,mid-level,Site Reliability Engineer ,Infrastructure,general,general,general,general,permenant,day rate,500,650,gbp,UK
+202,mid-level,Site Reliability Engineer ,Infrastructure,general,general,general,general,contractor,day rate,600,850,gbp,UK
+203,mid-level,Platform Engineer ,Infrastructure,general,general,general,general,permenant,annual,60000,80000,gbp,UK
+204,mid-level,Platform Engineer ,Infrastructure,general,general,general,general,permenant,day rate,500,650,gbp,UK
+205,mid-level,Platform Engineer ,Infrastructure,general,general,general,general,contractor,day rate,600,850,gbp,UK
+206,junior,Junior DevOps Engineer ,Infrastructure,general,general,general,general,permenant,annual,35000,55000,gbp,UK
+207,junior,Junior DevOps Engineer ,Infrastructure,general,general,general,general,permenant,day rate,400,500,gbp,UK
+208,junior,Junior DevOps Engineer ,Infrastructure,general,general,general,general,contractor,day rate,500,700,gbp,UK
+209,junior,Junior Site Reliability Engineer ,Infrastructure,general,general,general,general,permenant,annual,35000,55000,gbp,UK
+210,junior,Junior Site Reliability Engineer ,Infrastructure,general,general,general,general,permenant,day rate,400,500,gbp,UK
+211,junior,Junior Site Reliability Engineer ,Infrastructure,general,general,general,general,contractor,day rate,500,700,gbp,UK
+212,junior,Junior Platform Engineer ,Infrastructure,general,general,general,general,permenant,annual,35000,55000,gbp,UK
+213,junior,Junior Platform Engineer ,Infrastructure,general,general,general,general,permenant,day rate,400,500,gbp,UK
+214,junior,Junior Platform Engineer ,Infrastructure,general,general,general,general,contractor,day rate,500,700,gbp,UK
+215,mid-level,Senior SysAdmin ,Infrastructure,general,general,general,general,permenant,annual,70000,100000,gbp,UK
+216,mid-level,Senior SysAdmin ,Infrastructure,general,general,general,general,permenant,day rate,500,800,gbp,UK
+217,mid-level,Senior SysAdmin ,Infrastructure,general,general,general,general,contractor,day rate,600,900,gbp,UK
+218,mid-level,SysAdmin ,Infrastructure,general,general,general,general,permenant,annual,40000,60000,gbp,UK
+219,mid-level,SysAdmin ,Infrastructure,general,general,general,general,permenant,day rate,350,600,gbp,UK
+220,mid-level,SysAdmin ,Infrastructure,general,general,general,general,contractor,day rate,450,700,gbp,UK
+221,junior,Junior SysAdmin ,Infrastructure,general,general,general,general,permenant,annual,30000,40000,gbp,UK
+222,junior,Junior SysAdmin ,Infrastructure,general,general,general,general,permenant,day rate,300,400,gbp,UK
+223,junior,Junior SysAdmin ,Infrastructure,general,general,general,general,contractor,day rate,400,550,gbp,UK
+224,junior,Entry Level DevOps,Infrastructure,general,general,general,general,permenant,annual,25000,40000,gbp,UK
+225,junior,Entry Level DevOps,Infrastructure,general,general,general,general,permenant,day rate,200,300,gbp,UK
+226,junior,Entry Level DevOps,Infrastructure,general,general,general,general,contractor,day rate,300,500,gbp,UK
+227,junior,Entry Level SysAdmin,Infrastructure,general,general,general,general,permenant,annual,25000,40000,gbp,UK
+228,junior,Entry Level SysAdmin,Infrastructure,general,general,general,general,permenant,day rate,200,300,gbp,UK
+229,junior,Entry Level SysAdmin,Infrastructure,general,general,general,general,contractor,day rate,300,500,gbp,UK
+230,mid-level,Application Support (3rd line) ,Infrastructure,general,general,general,general,permenant,annual,40000,90000,gbp,UK
+231,mid-level,Application Support (3rd line) ,Infrastructure,general,general,general,general,permenant,day rate,400,600,gbp,UK
+232,mid-level,Application Support (3rd line) ,Infrastructure,general,general,general,general,contractor,day rate,400,700,gbp,UK
+233,mid-level,1st & 2nd Line Support ,Infrastructure,general,general,general,general,permenant,annual,30000,60000,gbp,UK
+234,mid-level,1st & 2nd Line Support ,Infrastructure,general,general,general,general,permenant,day rate,300,500,gbp,UK
+235,mid-level,1st & 2nd Line Support ,Infrastructure,general,general,general,general,contractor,day rate,400,600,gbp,UK
+236,mid-level,Security & Network Engineer ,Infrastructure,general,general,general,general,permenant,annual,50000,100000,gbp,UK
+237,mid-level,Security & Network Engineer ,Infrastructure,general,general,general,general,permenant,day rate,400,750,gbp,UK
+238,mid-level,Security & Network Engineer ,Infrastructure,general,general,general,general,contractor,day rate,500,950,gbp,UK
+239,mid-level,Database Administrator ,Infrastructure,general,general,general,general,permenant,annual,50000,100000,gbp,UK
+240,mid-level,Database Administrator ,Infrastructure,general,general,general,general,permenant,day rate,300,600,gbp,UK
+241,mid-level,Database Administrator ,Infrastructure,general,general,general,general,contractor,day rate,400,800,gbp,UK
+242,lead,Test Lead ,Testing,general,general,general,general,permenant,annual,90000,120000,gbp,UK
+243,lead,Test Lead ,Testing,general,general,general,general,permenant,day rate,600,750,gbp,UK
+244,lead,Test Lead ,Testing,general,general,general,general,contractor,day rate,700,950,gbp,UK
+245,mid-level,Senior Test Engineer ,Testing,general,general,general,general,permenant,annual,70000,90000,gbp,UK
+246,mid-level,Senior Test Engineer ,Testing,general,general,general,general,permenant,day rate,500,600,gbp,UK
+247,mid-level,Senior Test Engineer ,Testing,general,general,general,general,contractor,day rate,600,800,gbp,UK
+248,mid-level,Test Engineer ,Testing,general,general,general,general,permenant,annual,45000,70000,gbp,UK
+249,mid-level,Test Engineer ,Testing,general,general,general,general,permenant,day rate,400,500,gbp,UK
+250,mid-level,Test Engineer ,Testing,general,general,general,general,contractor,day rate,500,700,gbp,UK
+251,junior,Junior Test Engineer ,Testing,general,general,general,general,permenant,annual,30000,40000,gbp,UK
+252,junior,Junior Test Engineer ,Testing,general,general,general,general,permenant,day rate,300,400,gbp,UK
+253,junior,Junior Test Engineer ,Testing,general,general,general,general,contractor,day rate,400,600,gbp,UK
+254,mid-level,Senior SDET ,Testing,general,general,general,general,permenant,annual,80000,110000,gbp,UK
+255,mid-level,Senior SDET ,Testing,general,general,general,general,permenant,day rate,550,700,gbp,UK
+256,mid-level,Senior SDET ,Testing,general,general,general,general,contractor,day rate,650,900,gbp,UK
+257,mid-level,Software Development Engineer in Test,Testing,general,general,general,general,permenant,annual,55000,75000,gbp,UK
+258,mid-level,Software Development Engineer in Test,Testing,general,general,general,general,permenant,day rate,450,550,gbp,UK
+259,mid-level,Software Development Engineer in Test,Testing,general,general,general,general,contractor,day rate,550,750,gbp,UK
+260,junior,Junior SDET ,Testing,general,general,general,general,permenant,annual,40000,50000,gbp,UK
+261,junior,Junior SDET ,Testing,general,general,general,general,permenant,day rate,300,400,gbp,UK
+262,junior,Junior SDET ,Testing,general,general,general,general,contractor,day rate,400,600,gbp,UK
+263,junior,Entry Level Tester,Testing,general,general,general,general,permenant,annual,25000,35000,gbp,UK
+264,junior,Entry Level Tester,Testing,general,general,general,general,permenant,day rate,250,300,gbp,UK
+265,junior,Entry Level Tester,Testing,general,general,general,general,contractor,day rate,350,500,gbp,UK
+266,junior,Entry Level SDET ,Testing,general,general,general,general,permenant,annual,25000,35000,gbp,UK
+267,junior,Entry Level SDET ,Testing,general,general,general,general,permenant,day rate,250,300,gbp,UK
+268,junior,Entry Level SDET ,Testing,general,general,general,general,contractor,day rate,350,500,gbp,UK
+269,lead,Principal Product Manager ,Product,general,general,general,general,permenant,annual,90000,120000,gbp,UK
+270,lead,Principal Product Manager ,Product,general,general,general,general,permenant,day rate,550,800,gbp,UK
+271,lead,Principal Product Manager ,Product,general,general,general,general,contractor,day rate,600,900,gbp,UK
+272,lead,Lead Product Manager ,Product,general,general,general,general,permenant,annual,90000,120000,gbp,UK
+273,lead,Lead Product Manager ,Product,general,general,general,general,permenant,day rate,550,800,gbp,UK
+274,lead,Lead Product Manager ,Product,general,general,general,general,contractor,day rate,600,900,gbp,UK
+275,mid-level,Senior Product Manager,Product,general,general,general,general,permenant,annual,75000,100000,gbp,UK
+276,mid-level,Senior Product Manager,Product,general,general,general,general,permenant,day rate,550,800,gbp,UK
+277,mid-level,Senior Product Manager,Product,general,general,general,general,contractor,day rate,600,900,gbp,UK
+278,mid-level,Product Manager,Product,general,general,general,general,permenant,annual,60000,75000,gbp,UK
+279,mid-level,Product Manager,Product,general,general,general,general,permenant,day rate,400,550,gbp,UK
+280,mid-level,Product Manager,Product,general,general,general,general,contractor,day rate,500,650,gbp,UK
+281,mid-level,Senior Product Owner ,Product,general,general,general,general,permenant,annual,75000,100000,gbp,UK
+282,mid-level,Senior Product Owner ,Product,general,general,general,general,permenant,day rate,550,800,gbp,UK
+283,mid-level,Senior Product Owner ,Product,general,general,general,general,contractor,day rate,600,900,gbp,UK
+284,mid-level,Product Owner ,Product,general,general,general,general,permenant,annual,60000,75000,gbp,UK
+285,mid-level,Product Owner ,Product,general,general,general,general,permenant,day rate,400,550,gbp,UK
+286,mid-level,Product Owner ,Product,general,general,general,general,contractor,day rate,500,650,gbp,UK
+287,mid-level,Senior UX Designer ,UX & Design,general,general,general,general,permenant,annual,65000,85000,gbp,UK
+288,mid-level,Senior UX Designer ,UX & Design,general,general,general,general,permenant,day rate,500,650,gbp,UK
+289,mid-level,Senior UX Designer ,UX & Design,general,general,general,general,contractor,day rate,600,700,gbp,UK
+290,mid-level,UX Designer ,UX & Design,general,general,general,general,permenant,annual,45000,65000,gbp,UK
+291,mid-level,UX Designer ,UX & Design,general,general,general,general,permenant,day rate,400,500,gbp,UK
+292,mid-level,UX Designer ,UX & Design,general,general,general,general,contractor,day rate,500,600,gbp,UK
+293,mid-level,Senior UI Designer ,UX & Design,general,general,general,general,permenant,annual,65000,85000,gbp,UK
+294,mid-level,Senior UI Designer ,UX & Design,general,general,general,general,permenant,day rate,500,650,gbp,UK
+295,mid-level,Senior UI Designer ,UX & Design,general,general,general,general,contractor,day rate,550,700,gbp,UK
+296,mid-level,Senior Visual Designer ,UX & Design,general,general,general,general,permenant,annual,65000,85000,gbp,UK
+297,mid-level,Senior Visual Designer ,UX & Design,general,general,general,general,permenant,day rate,500,650,gbp,UK
+298,mid-level,Senior Visual Designer ,UX & Design,general,general,general,general,contractor,day rate,550,700,gbp,UK
+299,mid-level,UI Designer ,UX & Design,general,general,general,general,permenant,annual,45000,65000,gbp,UK
+300,mid-level,UI Designer ,UX & Design,general,general,general,general,permenant,day rate,400,500,gbp,UK
+301,mid-level,UI Designer ,UX & Design,general,general,general,general,contractor,day rate,500,600,gbp,UK
+302,mid-level,Visual Designer ,UX & Design,general,general,general,general,permenant,annual,45000,65000,gbp,UK
+303,mid-level,Visual Designer ,UX & Design,general,general,general,general,permenant,day rate,400,500,gbp,UK
+304,mid-level,Visual Designer ,UX & Design,general,general,general,general,contractor,day rate,500,600,gbp,UK
+305,mid-level,Senior Product Designer ,UX & Design,general,general,general,general,permenant,annual,65000,85000,gbp,UK
+306,mid-level,Senior Product Designer ,UX & Design,general,general,general,general,permenant,day rate,500,650,gbp,UK
+307,mid-level,Senior Product Designer ,UX & Design,general,general,general,general,contractor,day rate,600,700,gbp,UK
+308,mid-level,Product Designer ,UX & Design,general,general,general,general,permenant,annual,45000,65000,gbp,UK
+309,mid-level,Product Designer ,UX & Design,general,general,general,general,permenant,day rate,300,500,gbp,UK
+310,mid-level,Product Designer ,UX & Design,general,general,general,general,contractor,day rate,500,600,gbp,UK
+311,mid-level,User Researcher ,UX & Design,general,general,general,general,permenant,annual,45000,65000,gbp,UK
+312,mid-level,User Researcher ,UX & Design,general,general,general,general,permenant,day rate,400,600,gbp,UK
+313,mid-level,User Researcher ,UX & Design,general,general,general,general,contractor,day rate,500,650,gbp,UK
+314,mid-level,Agile Coach ,Delivery,general,general,general,general,permenant,annual,80000,120000,gbp,UK
+315,mid-level,Agile Coach ,Delivery,general,general,general,general,permenant,day rate,600,1000,gbp,UK
+316,mid-level,Agile Coach ,Delivery,general,general,general,general,contractor,day rate,700,1200,gbp,UK
+317,mid-level,Programme Manager ,Delivery,general,general,general,general,permenant,annual,80000,120000,gbp,UK
+318,mid-level,Programme Manager ,Delivery,general,general,general,general,permenant,day rate,600,800,gbp,UK
+319,mid-level,Programme Manager ,Delivery,general,general,general,general,contractor,day rate,700,1000,gbp,UK
+320,mid-level,Senior Project Manager ,Delivery,general,general,general,general,permenant,annual,75000,90000,gbp,UK
+321,mid-level,Senior Project Manager ,Delivery,general,general,general,general,permenant,day rate,550,650,gbp,UK
+322,mid-level,Senior Project Manager ,Delivery,general,general,general,general,contractor,day rate,650,750,gbp,UK
+323,mid-level,Project Manager ,Delivery,general,general,general,general,permenant,annual,60000,75000,gbp,UK
+324,mid-level,Project Manager ,Delivery,general,general,general,general,permenant,day rate,400,550,gbp,UK
+325,mid-level,Project Manager ,Delivery,general,general,general,general,contractor,day rate,500,650,gbp,UK
+326,mid-level,Senior Business Analyst ,Delivery,general,general,general,general,permenant,annual,75000,85000,gbp,UK
+327,mid-level,Senior Business Analyst ,Delivery,general,general,general,general,permenant,day rate,525,600,gbp,UK
+328,mid-level,Senior Business Analyst ,Delivery,general,general,general,general,contractor,day rate,575,675,gbp,UK
+329,mid-level,Business Analyst ,Delivery,general,general,general,general,permenant,annual,60000,70000,gbp,UK
+330,mid-level,Business Analyst ,Delivery,general,general,general,general,permenant,day rate,300,550,gbp,UK
+331,mid-level,Business Analyst ,Delivery,general,general,general,general,contractor,day rate,400,650,gbp,UK
+332,mid-level,Scrum Master ,Delivery,general,general,general,general,permenant,annual,60000,80000,gbp,UK
+333,mid-level,Scrum Master ,Delivery,general,general,general,general,permenant,day rate,400,600,gbp,UK
+334,mid-level,Scrum Master ,Delivery,general,general,general,general,contractor,day rate,500,700,gbp,UK
+335,mid-level,Delivery Manager ,Delivery,general,general,general,general,permenant,annual,70000,120000,gbp,UK
+336,mid-level,Delivery Manager ,Delivery,general,general,general,general,permenant,day rate,450,750,gbp,UK
+337,mid-level,Delivery Manager ,Delivery,general,general,general,general,contractor,day rate,550,850,gbp,UK
+338,mid-level,Project Coordinator ,Delivery,general,general,general,general,permenant,annual,25000,40000,gbp,UK
+339,mid-level,Project Coordinator ,Delivery,general,general,general,general,permenant,day rate,200,350,gbp,UK
+340,mid-level,Project Coordinator ,Delivery,general,general,general,general,contractor,day rate,250,400,gbp,UK
+341,C-level,CTO,Senior Executive,general,general,general,general,permenant,annual,150000,250000,gbp,UK
+342,C-level,CTO,Senior Executive,general,general,general,general,permenant,day rate,1000,1500,gbp,UK
+343,C-level,CTO,Senior Executive,general,general,general,general,contractor,day rate,1400,2000,gbp,UK
+344,C-level,CTPO ,Senior Executive,general,general,general,general,permenant,annual,150000,250000,gbp,UK
+345,C-level,CTPO ,Senior Executive,general,general,general,general,permenant,day rate,1000,1500,gbp,UK
+346,C-level,CTPO ,Senior Executive,general,general,general,general,contractor,day rate,1400,2000,gbp,UK
+347,C-level,CPO,Senior Executive,general,general,general,general,permenant,annual,150000,250000,gbp,UK
+348,C-level,CPO,Senior Executive,general,general,general,general,permenant,day rate,1000,1500,gbp,UK
+349,C-level,CPO,Senior Executive,general,general,general,general,contractor,day rate,1400,2000,gbp,UK
+350,C-level,CIO,Senior Executive,general,general,general,general,permenant,annual,150000,250000,gbp,UK
+351,C-level,CIO,Senior Executive,general,general,general,general,permenant,day rate,1000,1500,gbp,UK
+352,C-level,CIO,Senior Executive,general,general,general,general,contractor,day rate,1400,2000,gbp,UK
+353,C-level,CTO ,Senior Executive,general,general,Early-Stage Startup,general,permenant,annual,110000,150000,gbp,UK
+354,C-level,CTO ,Senior Executive,general,general,Early-Stage Startup,general,permenant,day rate,800,1200,gbp,UK
+355,C-level,CTO ,Senior Executive,general,general,Early-Stage Startup,general,contractor,day rate,1000,1500,gbp,UK
+356,C-level,CTPO ,Senior Executive,general,general,Early-Stage Startup,general,permenant,annual,110000,150000,gbp,UK
+357,C-level,CTPO ,Senior Executive,general,general,Early-Stage Startup,general,permenant,day rate,800,1200,gbp,UK
+358,C-level,CTPO,Senior Executive,general,general,Early-Stage Startup,general,contractor,day rate,1000,1500,gbp,UK
+359,senior lead,VP of Engineering ,Engineering,general,general,general,general,permenant,annual,140000,180000,gbp,UK
+360,senior lead,VP of Engineering ,Engineering,general,general,general,general,permenant,day rate,900,1200,gbp,UK
+361,senior lead,VP of Engineering ,Engineering,general,general,general,general,contractor,day rate,1200,1600,gbp,UK
+362,senior lead,Director of Engineering ,Engineering,general,general,general,general,permenant,annual,140000,180000,gbp,UK
+363,senior lead,Director of Engineering ,Engineering,general,general,general,general,permenant,day rate,900,1200,gbp,UK
+364,senior lead,Director of Engineering ,Engineering,general,general,general,general,contractor,day rate,1200,1600,gbp,UK
+365,senior lead,Head of Engineering ,Engineering,general,general,general,general,permenant,annual,140000,180000,gbp,UK
+366,senior lead,Head of Engineering ,Engineering,general,general,general,general,permenant,day rate,900,1200,gbp,UK
+367,senior lead,Head of Engineering ,Engineering,general,general,general,general,contractor,day rate,1200,1600,gbp,UK
+368,senior lead,Head of Product ,Product,general,general,general,general,permenant,annual,140000,180000,gbp,UK
+369,senior lead,Head of Product ,Product,general,general,general,general,permenant,day rate,750,1000,gbp,UK
+370,senior lead,Head of Product ,Product,general,general,general,general,contractor,day rate,950,1400,gbp,UK
+371,senior lead,VP of Product ,Product,general,general,general,general,permenant,annual,120000,160000,gbp,UK
+372,senior lead,VP of Product ,Product,general,general,general,general,permenant,day rate,750,950,gbp,UK
+373,senior lead,VP of Product ,Product,general,general,general,general,contractor,day rate,950,1200,gbp,UK
+374,senior lead,Director of Product ,Product,general,general,general,general,permenant,annual,120000,160000,gbp,UK
+375,senior lead,Director of Product ,Product,general,general,general,general,permenant,day rate,750,950,gbp,UK
+376,senior lead,Director of Product ,Product,general,general,general,general,contractor,day rate,950,1200,gbp,UK
+377,C-level,Chief of Architecture ,Senior Executive,general,general,general,general,permenant,annual,140000,200000,gbp,UK
+378,C-level,Chief of Architecture ,Senior Executive,general,general,general,general,permenant,day rate,850,1200,gbp,UK
+379,C-level,Chief of Architecture ,Senior Executive,general,general,general,general,contractor,day rate,1200,1500,gbp,UK
+380,senior lead,Head of Architecture ,Architecture,general,general,general,general,permenant,annual,140000,200000,gbp,UK
+381,senior lead,Head of Architecture ,Architecture,general,general,general,general,permenant,day rate,850,1200,gbp,UK
+382,senior lead,Head of Architecture ,Architecture,general,general,general,general,contractor,day rate,1200,1500,gbp,UK
+383,senior lead,Head of DevOps,Infrastructure,general,general,general,general,permenant,annual,120000,160000,gbp,UK
+384,senior lead,Head of DevOps,Infrastructure,general,general,general,general,permenant,day rate,750,1000,gbp,UK
+385,senior lead,Head of DevOps,Infrastructure,general,general,general,general,contractor,day rate,900,1300,gbp,UK
+386,senior lead,Head of Infrastructure,Infrastructure,general,general,general,general,permenant,annual,120000,160000,gbp,UK
+387,senior lead,Head of Infrastructure,Infrastructure,general,general,general,general,permenant,day rate,750,1000,gbp,UK
+388,senior lead,Head of Infrastructure,Infrastructure,general,general,general,general,contractor,day rate,900,1300,gbp,UK
+389,senior lead,Head of Cloud ,Infrastructure,general,general,general,general,permenant,annual,120000,160000,gbp,UK
+390,senior lead,Head of Cloud ,Infrastructure,general,general,general,general,permenant,day rate,750,1000,gbp,UK
+391,senior lead,Head of Cloud ,Infrastructure,general,general,general,general,contractor,day rate,900,1300,gbp,UK
+392,senior lead,Head of Data ,Data Science & Analytics,general,general,general,general,permenant,annual,120000,150000,gbp,UK
+393,senior lead,Head of Data ,Data Science & Analytics,general,general,general,general,permenant,day rate,900,1200,gbp,UK
+394,senior lead,Head of Data ,Data Science & Analytics,general,general,general,general,contractor,day rate,1200,1500,gbp,UK
+395,senior lead,Head of Delivery ,Delivery,general,general,general,general,permenant,annual,110000,150000,gbp,UK
+396,senior lead,Head of Delivery ,Delivery,general,general,general,general,permenant,day rate,650,900,gbp,UK
+397,senior lead,Head of Delivery ,Delivery,general,general,general,general,contractor,day rate,750,1000,gbp,UK
+398,senior lead,Head of QA ,Testing,general,general,general,general,permenant,annual,80000,120000,gbp,UK
+399,senior lead,Head of QA ,Testing,general,general,general,general,permenant,day rate,600,800,gbp,UK
+400,senior lead,Head of QA ,Testing,general,general,general,general,contractor,day rate,800,1100,gbp,UK
+401,senior lead,Head of Testing,Testing,general,general,general,general,permenant,annual,80000,120000,gbp,UK
+402,senior lead,Head of Testing,Testing,general,general,general,general,permenant,day rate,600,800,gbp,UK
+403,senior lead,Head of Testing,Testing,general,general,general,general,contractor,day rate,800,1100,gbp,UK
+404,senior lead,Engineering Manager ,Engineering,general,general,general,general,permenant,annual,95000,130000,gbp,UK
+405,senior lead,Engineering Manager ,Engineering,general,general,general,general,permenant,day rate,600,800,gbp,UK
+406,senior lead,Engineering Manager ,Engineering,general,general,general,general,contractor,day rate,900,1200,gbp,UK
+407,senior lead,VP Talent Acquisition,Talent Acquisition,general,general,general,general,permenant,annual,110000,150000,gbp,UK
+408,senior lead,VP Talent Acquisition,Talent Acquisition,general,general,general,general,permenant,day rate,600,800,gbp,UK
+409,senior lead,VP Talent Acquisition,Talent Acquisition,general,general,general,general,contractor,day rate,750,1000,gbp,UK
+410,senior lead,Director Talent Acquisition,Talent Acquisition,general,general,general,general,permenant,annual,110000,150000,gbp,UK
+411,senior lead,Director Talent Acquisition,Talent Acquisition,general,general,general,general,permenant,day rate,600,800,gbp,UK
+412,senior lead,Director Talent Acquisition,Talent Acquisition,general,general,general,general,contractor,day rate,750,1000,gbp,UK
+413,senior lead,Head of TA ,Talent Acquisition,general,general,general,general,permenant,annual,80000,100000,gbp,UK
+414,senior lead,Head of TA ,Talent Acquisition,general,general,general,general,permenant,day rate,500,600,gbp,UK
+415,senior lead,Head of TA ,Talent Acquisition,general,general,general,general,contractor,day rate,600,850,gbp,UK
+416,senior lead,Senior TA Partner,Talent Acquisition,general,general,general,general,permenant,annual,70000,90000,gbp,UK
+417,senior lead,Senior TA Partner,Talent Acquisition,general,general,general,general,permenant,day rate,400,500,gbp,UK
+418,senior lead,Senior TA Partner,Talent Acquisition,general,general,general,general,contractor,day rate,500,600,gbp,UK
+419,senior lead,Senior TA Manager ,Talent Acquisition,general,general,general,general,permenant,annual,70000,90000,gbp,UK
+420,senior lead,Senior TA Manager ,Talent Acquisition,general,general,general,general,permenant,day rate,400,500,gbp,UK
+421,senior lead,Senior TA Manager ,Talent Acquisition,general,general,general,general,contractor,day rate,500,600,gbp,UK
+422,senior lead,TA Partner ,Talent Acquisition,general,general,general,general,permenant,annual,55000,70000,gbp,UK
+423,senior lead,TA Partner ,Talent Acquisition,general,general,general,general,permenant,day rate,350,450,gbp,UK
+424,senior lead,TA Partner ,Talent Acquisition,general,general,general,general,contractor,day rate,425,500,gbp,UK
+425,senior lead,Technical Sourcer ,Talent Acquisition,general,general,general,general,permenant,annual,40000,55000,gbp,UK
+426,senior lead,Technical Sourcer ,Talent Acquisition,general,general,general,general,permenant,day rate,250,350,gbp,UK
+427,senior lead,Technical Sourcer ,Talent Acquisition,general,general,general,general,contractor,day rate,350,425,gbp,UK
+428,senior lead,Head of Customer Success,Customer Success,general,Birdie,small,healthtech,permenant,annual,95000,95000,gbp,UK
+429,senior lead,Customer Success Director,Customer Success,general,Birdie,small,healthtech,permenant,annual,80000,80000,gbp,UK
+430,mid-level,Senior Implementation Manager,Customer Success,general,Birdie,small,healthtech,permenant,annual,55000,55000,gbp,UK
+431,mid-level,Implementation Manager,Customer Success,general,Birdie,small,healthtech,permenant,annual,50000,50000,gbp,UK
+432,junior,Associate Implimentation Manager,Customer Success,general,Birdie,small,healthtech,permenant,annual,46000,46000,gbp,UK
+433,senior lead,Head of SME onboarding,Customer Success,general,Birdie,small,healthtech,permenant,annual,65000,65000,gbp,UK
+434,senior lead,Senior Team Lead - Onboarding,Customer Success,general,Birdie,small,healthtech,permenant,annual,60000,60000,gbp,UK
+435,lead,Onboarding Team Lead,Customer Success,general,Birdie,small,healthtech,permenant,annual,55000,55000,gbp,UK
+436,lead,Customer Success Lead,Customer Success,general,Birdie,small,healthtech,permenant,annual,50000,50000,gbp,UK
+437,lead,Customer Success Team Lead,Customer Success,general,Birdie,small,healthtech,permenant,annual,50000,50000,gbp,UK
+438,mid-level,Snr Enterprise CSM,Customer Success,general,Birdie,small,healthtech,permenant,annual,55000,55000,gbp,UK
+439,mid-level,Enterprise CSM,Customer Success,general,Birdie,small,healthtech,permenant,annual,50000,50000,gbp,UK
+440,mid-level,Senior onboarding CSM,Customer Success,general,Birdie,small,healthtech,permenant,annual,46000,46000,gbp,UK
+441,mid-level,Senior onboarding exec,Customer Success,general,Birdie,small,healthtech,permenant,annual,46000,46000,gbp,UK
+442,mid-level,Customer Success Manager,Customer Success,general,Birdie,small,healthtech,permenant,annual,41000,41000,gbp,UK
+443,mid-level,Onboarding exec,Customer Success,general,Birdie,small,healthtech,permenant,annual,41000,41000,gbp,UK
+444,junior,Associate onboarding exec,Customer Success,general,Birdie,small,healthtech,permenant,annual,36000,36000,gbp,UK
+445,junior,Associate onboarding CSM,Customer Success,general,Birdie,small,healthtech,permenant,annual,36000,36000,gbp,UK
+446,mid-level,Senior Product Trainer SME,Customer Success,general,Birdie,small,healthtech,permenant,annual,36000,36000,gbp,UK
+447,mid-level,Senior Product Trainer MME,Customer Success,general,Birdie,small,healthtech,permenant,annual,36000,36000,gbp,UK
+448,mid-level,Product Trainer SME,Customer Success,general,Birdie,small,healthtech,permenant,annual,33000,33000,gbp,UK
+449,mid-level,Product Trainer MME,Customer Success,general,Birdie,small,healthtech,permenant,annual,33000,33000,gbp,UK
+450,junior,Associate Product Trainer SME / MME,Customer Success,general,Birdie,small,healthtech,permenant,annual,30000,30000,gbp,UK
+451,senior lead,Head of Customer Support,Customer Success,general,Birdie,small,healthtech,permenant,annual,80000,80000,gbp,UK
+452,mid-level,Senior Customer Support Manager,Customer Success,general,Birdie,small,healthtech,permenant,annual,60000,60000,gbp,UK
+453,mid-level,Customer Support Manager,Customer Success,general,Birdie,small,healthtech,permenant,annual,50000,50000,gbp,UK
+454,lead,Support Lead T1 / T2,Customer Success,general,Birdie,small,healthtech,permenant,annual,42000,42000,gbp,UK
+455,lead,Associate Customer Support Lead,Customer Success,general,Birdie,small,healthtech,permenant,annual,36000,36000,gbp,UK
+456,junior,Senior T2 Support Associate,Customer Success,general,Birdie,small,healthtech,permenant,annual,35000,35000,gbp,UK
+457,junior,T2 Support Associate,Customer Success,general,Birdie,small,healthtech,permenant,annual,33000,33000,gbp,UK
+458,mid-level,Customer Support - SME,Customer Success,general,Birdie,small,healthtech,permenant,annual,33000,33000,gbp,UK
+459,mid-level,Senior T1 Support Associate,Customer Success,general,Birdie,small,healthtech,permenant,annual,32000,32000,gbp,UK
+460,junior,T1 Support Associate,Customer Success,general,Birdie,small,healthtech,permenant,annual,30000,30000,gbp,UK
+461,senior lead,Creative Director - Content & community,Marketing,general,Birdie,small,healthtech,permenant,annual,90000,90000,gbp,UK
+462,senior lead,Head of Creative,Marketing,general,Birdie,small,healthtech,permenant,annual,80000,80000,gbp,UK
+463,lead,Senior Content & Community Lead,Marketing,general,Birdie,small,healthtech,permenant,annual,65000,65000,gbp,UK
+464,lead,Content & Community Lead,Marketing,general,Birdie,small,healthtech,permenant,annual,60000,60000,gbp,UK
+465,mid-level,Content & Community Manager,Marketing,general,Birdie,small,healthtech,permenant,annual,60000,60000,gbp,UK
+466,mid-level,Senior Content & Community Manager,Marketing,general,Birdie,small,healthtech,permenant,annual,50000,50000,gbp,UK
+467,mid-level,Content & Community Manager,Marketing,general,Birdie,small,healthtech,permenant,annual,40000,40000,gbp,UK
+468,junior,Associate Content Executive,Marketing,general,Birdie,small,healthtech,permenant,annual,30000,30000,gbp,UK
+469,senior lead,Creative Director - Design,Marketing,general,Birdie,small,healthtech,permenant,annual,80000,80000,gbp,UK
+470,senior lead,Senior Lead Brand Designer,Marketing,general,Birdie,small,healthtech,permenant,annual,70000,70000,gbp,UK
+471,lead,Lead Brand Designer,Marketing,general,Birdie,small,healthtech,permenant,annual,65000,65000,gbp,UK
+472,mid-level,Senior Brand Designer,Marketing,general,Birdie,small,healthtech,permenant,annual,60000,60000,gbp,UK
+473,mid-level,Brand Designer,Marketing,general,Birdie,small,healthtech,permenant,annual,55000,55000,gbp,UK
+474,senior lead,Director of Growth Marketing,Marketing,general,Birdie,small,healthtech,permenant,annual,100000,100000,gbp,UK
+475,senior lead,Head Of Growth Marketing,Marketing,general,Birdie,small,healthtech,permenant,annual,90000,90000,gbp,UK
+476,mid-level,Senior Growth Marketing Lead,Marketing,general,Birdie,small,healthtech,permenant,annual,70000,70000,gbp,UK
+477,lead,Growth Marketing Lead,Marketing,general,Birdie,small,healthtech,permenant,annual,60000,60000,gbp,UK
+478,mid-level,Senior Growth Marketing Manager,Marketing,general,Birdie,small,healthtech,permenant,annual,55000,55000,gbp,UK
+479,mid-level,Growth Marketing Manager,Marketing,general,Birdie,small,healthtech,permenant,annual,45000,45000,gbp,UK
+480,mid-level,Growth Marketer,Marketing,general,Birdie,small,healthtech,permenant,annual,35000,35000,gbp,UK
+481,lead,Senior Marketing Lead,Marketing,general,Birdie,small,healthtech,permenant,annual,60000,60000,gbp,UK
+482,lead,Marketing Lead,Marketing,general,Birdie,small,healthtech,permenant,annual,55000,55000,gbp,UK
+483,mid-level,Senior Marketing Manager,Marketing,general,Birdie,small,healthtech,permenant,annual,50000,50000,gbp,UK
+484,mid-level,Marketing Manager,Marketing,general,Birdie,small,healthtech,permenant,annual,45000,45000,gbp,UK
+485,junior,Marketing Associate,Marketing,general,Birdie,small,healthtech,permenant,annual,40000,40000,gbp,UK
+486,lead,Senior Events Marketing Lead,Marketing,general,Birdie,small,healthtech,permenant,annual,60000,60000,gbp,UK
+487,lead,Events Marketing Lead,Marketing,general,Birdie,small,healthtech,permenant,annual,55000,55000,gbp,UK
+488,mid-level,Senior Events Manager,Marketing,general,Birdie,small,healthtech,permenant,annual,50000,50000,gbp,UK
+489,mid-level,Senior Marketing Manager,Marketing,general,Birdie,small,healthtech,permenant,annual,50000,50000,gbp,UK
+490,mid-level,Events Marketing Manager,Marketing,general,Birdie,small,healthtech,permenant,annual,45000,45000,gbp,UK
+491,mid-level,Events Marketing Associate,Marketing,general,Birdie,small,healthtech,permenant,annual,40000,40000,gbp,UK
+492,lead,Senior Email Marketing Lead,Marketing,general,Birdie,small,healthtech,permenant,annual,60000,60000,gbp,UK
+493,lead,Email Marketing Lead,Marketing,general,Birdie,small,healthtech,permenant,annual,55000,55000,gbp,UK
+494,mid-level,Senior Email Marketing Manager,Marketing,general,Birdie,small,healthtech,permenant,annual,50000,50000,gbp,UK
+495,mid-level,Email Marketing Manager,Marketing,general,Birdie,small,healthtech,permenant,annual,45000,45000,gbp,UK
+496,mid-level,Associate Email Marketing Manager,Marketing,general,Birdie,small,healthtech,permenant,annual,40000,40000,gbp,UK
+497,lead,International Marketing Lead,Marketing,general,Birdie,small,healthtech,permenant,annual,69000,69000,gbp,UK
+498,senior lead,Product Marketing Director,Marketing,general,Birdie,small,healthtech,permenant,annual,110000,110000,gbp,UK
+499,senior lead,Head of Product Marketing,Marketing,general,Birdie,small,healthtech,permenant,annual,95000,95000,gbp,UK
+500,lead,Senior Product Marketing Lead,Marketing,general,Birdie,small,healthtech,permenant,annual,85000,85000,gbp,UK
+501,lead,Product Marketing Lead,Marketing,general,Birdie,small,healthtech,permenant,annual,75000,75000,gbp,UK
+502,mid-level,Senior Product Marketing Manager,Marketing,general,Birdie,small,healthtech,permenant,annual,65000,65000,gbp,UK
+503,mid-level,Product Marketing Manager,Marketing,general,Birdie,small,healthtech,permenant,annual,55000,55000,gbp,UK
+504,junior,Associate Product Marketing Manager,Marketing,general,Birdie,small,healthtech,permenant,annual,45000,45000,gbp,UK
+505,senior lead,VP Sales,Sales,general,Birdie,small,healthtech,permenant,annual,180000,180000,gbp,UK
+506,senior lead,Sales Director,Sales,general,Birdie,small,healthtech,permenant,annual,96000,96000,gbp,UK
+507,senior lead,Senior MME sales exec,Sales,general,Birdie,small,healthtech,permenant,annual,96000,96000,gbp,UK
+508,lead,Mid MME sales exec,Sales,general,Birdie,small,healthtech,permenant,annual,78000,78000,gbp,UK
+509,senior lead,Head of Sales ( SDR ),Sales,general,Birdie,small,healthtech,permenant,annual,90000,90000,gbp,UK
+510,mid-level,Inside Sales Manager,Sales,general,Birdie,small,healthtech,permenant,annual,69000,69000,gbp,UK
+511,mid-level,SDR sales Manager,Sales,general,Birdie,small,healthtech,permenant,annual,68000,68000,gbp,UK
+512,mid-level,Senior MME SDR,Sales,general,Birdie,small,healthtech,permenant,annual,35000,35000,gbp,UK
+513,mid-level,MME SDR,Sales,general,Birdie,small,healthtech,permenant,annual,33000,33000,gbp,UK
+514,junior,Junior MME SDR,Sales,general,Birdie,small,healthtech,permenant,annual,30000,30000,gbp,UK
+515,mid-level,Senior SME SDR,Sales,general,Birdie,small,healthtech,permenant,annual,35000,35000,gbp,UK
+516,mid-level,SME SDR,Sales,general,Birdie,small,healthtech,permenant,annual,33000,33000,gbp,UK
+517,junior,Junior SME SDR,Sales,general,Birdie,small,healthtech,permenant,annual,30000,30000,gbp,UK
+518,senior lead,Head of Sales ( Exec ),Sales,general,Birdie,small,healthtech,permenant,annual,90000,90000,gbp,UK
+519,mid-level,Senior Sales Executive Large SME,Sales,general,Birdie,small,healthtech,permenant,annual,60000,60000,gbp,UK
+520,lead,Lead Sales Executive SME,Sales,general,Birdie,small,healthtech,permenant,annual,55000,55000,gbp,UK
+521,mid-level,Senior Sales Executive SME,Sales,general,Birdie,small,healthtech,permenant,annual,50000,50000,gbp,UK
+522,mid-level,Sales Executive SME,Sales,general,Birdie,small,healthtech,permenant,annual,45000,45000,gbp,UK
+523,junior,Junior Sales Executive SME,Sales,general,Birdie,small,healthtech,permenant,annual,35000,35000,gbp,UK
+524,senior lead,Country Manager,Sales,general,Birdie,small,healthtech,permenant,annual,105000,105000,gbp,UK
+525,senior lead,General Manager,Sales,general,Birdie,small,healthtech,permenant,annual,105000,105000,gbp,UK
+526,senior lead,RevOps Director,Growth,general,Birdie,small,healthtech,permenant,annual,130000,130000,gbp,UK
+527,senior lead,Head of RevOps,Growth,general,Birdie,small,healthtech,permenant,annual,90000,90000,gbp,UK
+528,lead,RevOps Principal,Growth,general,Birdie,small,healthtech,permenant,annual,90000,90000,gbp,UK
+529,lead,RevOps Lead,Growth,general,Birdie,small,healthtech,permenant,annual,80000,80000,gbp,UK
+530,mid-level,Senior RevOps Manager,Growth,general,Birdie,small,healthtech,permenant,annual,70000,70000,gbp,UK
+531,mid-level,RevOps Manager,Growth,general,Birdie,small,healthtech,permenant,annual,60000,60000,gbp,UK
+532,mid-level,Growth Executive,Growth,general,Birdie,small,healthtech,permenant,annual,70000,70000,gbp,UK
+533,junior,Growth Associate,Growth,general,Birdie,small,healthtech,permenant,annual,60000,60000,gbp,UK
+534,senior lead,Senior Partner Experience Growth Lead,Growth,general,Birdie,small,healthtech,permenant,annual,95000,95000,gbp,UK
+535,lead,Partner Experience Growth Lead,Growth,general,Birdie,small,healthtech,permenant,annual,85000,85000,gbp,UK
+536,senior lead,Analytics Director,Data Science & Analytics,general,Birdie,small,healthtech,permenant,annual,105000,105000,gbp,UK
+537,senior lead,Head of Analytics,Data Science & Analytics,general,Birdie,small,healthtech,permenant,annual,95000,95000,gbp,UK
+538,lead,Analytics Manager,Data Science & Analytics,general,Birdie,small,healthtech,permenant,annual,85000,85000,gbp,UK
+539,lead,Lead Product Analyst,Data Science & Analytics,general,Birdie,small,healthtech,permenant,annual,75000,75000,gbp,UK
+540,lead,Lead Product Associate Manager,Data Science & Analytics,general,Birdie,small,healthtech,permenant,annual,75000,75000,gbp,UK
+541,mid-level,Senior Product Analyst,Data Science & Analytics,general,Birdie,small,healthtech,permenant,annual,65000,65000,gbp,UK
+542,mid-level,Senior Commercial Analyst,Data Science & Analytics,general,Birdie,small,healthtech,permenant,annual,65000,65000,gbp,UK
+543,mid-level,Commercial Analyst,Data Science & Analytics,general,Birdie,small,healthtech,permenant,annual,55000,55000,gbp,UK
+544,mid-level,Product Analyst,Data Science & Analytics,general,Birdie,small,healthtech,permenant,annual,55000,55000,gbp,UK
+545,junior,Associate Analyst,Data Science & Analytics,general,Birdie,small,healthtech,permenant,annual,45000,45000,gbp,UK
+546,junior,Analytics Intern,Data Science & Analytics,general,Birdie,small,healthtech,permenant,annual,22000,22000,gbp,UK
+547,senior lead,Head of Data Science,Data Science & Analytics,general,Birdie,small,healthtech,permenant,annual,110000,110000,gbp,UK
+548,lead,Principal Data Scientist,Data Science & Analytics,general,Birdie,small,healthtech,permenant,annual,95000,95000,gbp,UK
+549,mid-level,Senior Data Scientist,Data Science & Analytics,general,Birdie,small,healthtech,permenant,annual,85000,85000,gbp,UK
+550,mid-level,Data Scientist,Data Science & Analytics,general,Birdie,small,healthtech,permenant,annual,75000,75000,gbp,UK
+551,senior lead,Head of Product Design,UX & Design,general,Birdie,small,healthtech,permenant,annual,100000,100000,gbp,UK
+552,lead,Staff Designer,UX & Design,general,Birdie,small,healthtech,permenant,annual,90000,90000,gbp,UK
+553,lead,Lead Product Designer,UX & Design,general,Birdie,small,healthtech,permenant,annual,80000,80000,gbp,UK
+554,mid-level,Senior Product Designer,UX & Design,general,Birdie,small,healthtech,permenant,annual,70000,70000,gbp,UK
+555,mid-level,Product Designer,UX & Design,general,Birdie,small,healthtech,permenant,annual,55000,55000,gbp,UK
+556,junior,Associate Product Designer,UX & Design,general,Birdie,small,healthtech,permenant,annual,36000,36000,gbp,UK
+557,lead,Lead Data Engineer,Data Science & Analytics,general,Birdie,small,healthtech,permenant,annual,95000,95000,gbp,UK
+558,mid-level,Senior Data Engineer,Data Science & Analytics,general,Birdie,small,healthtech,permenant,annual,85000,85000,gbp,UK
+559,mid-level,Data Engineer,Data Science & Analytics,general,Birdie,small,healthtech,permenant,annual,70000,70000,gbp,UK
+560,lead,Lead Analytics Engineer,Data Science & Analytics,general,Birdie,small,healthtech,permenant,annual,95000,95000,gbp,UK
+561,mid-level,Senior Analytics Engineer,Data Science & Analytics,general,Birdie,small,healthtech,permenant,annual,80000,80000,gbp,UK
+562,mid-level,Analytics Engineer,Data Science & Analytics,general,Birdie,small,healthtech,permenant,annual,70000,70000,gbp,UK
+563,senior lead,VP Engineering,Engineering,general,Birdie,small,healthtech,permenant,annual,170000,170000,gbp,UK
+564,senior lead,Head of Engineering,Engineering,general,Birdie,small,healthtech,permenant,annual,130000,130000,gbp,UK
+565,lead,Principal Software Engineer,Software Engineering,general,Birdie,small,healthtech,permenant,annual,105000,105000,gbp,UK
+566,lead,Senior Engineering Manager,Software Engineering,general,Birdie,small,healthtech,permenant,annual,105000,105000,gbp,UK
+567,lead,Senior Staff Software Engineer,Software Engineering,general,Birdie,small,healthtech,permenant,annual,95000,95000,gbp,UK
+568,lead,Engineering Manager,Software Engineering,general,Birdie,small,healthtech,permenant,annual,95000,95000,gbp,UK
+569,lead,Staff Software Engineer,Software Engineering,general,Birdie,small,healthtech,permenant,annual,87000,87000,gbp,UK
+570,lead,Tech lead,Software Engineering,general,Birdie,small,healthtech,permenant,annual,87000,87000,gbp,UK
+571,mid-level,Associate Engineering Manager,Software Engineering,general,Birdie,small,healthtech,permenant,annual,87000,87000,gbp,UK
+572,mid-level,Senior Software Engineer,Software Engineering,general,Birdie,small,healthtech,permenant,annual,80000,80000,gbp,UK
+573,mid-level,Software Engineer,Software Engineering,general,Birdie,small,healthtech,permenant,annual,65000,65000,gbp,UK
+574,junior,Associate Software Engineer,Software Engineering,general,Birdie,small,healthtech,permenant,annual,45000,45000,gbp,UK
+575,junior,Intern Software Engineer,Software Engineering,general,Birdie,small,healthtech,permenant,annual,22000,22000,gbp,UK
+576,senior lead,Head of Platform,Infrastructure,general,Birdie,small,healthtech,permenant,annual,120000,120000,gbp,UK
+577,lead,QA Lead Engineer,Testing,general,Birdie,small,healthtech,permenant,annual,90000,90000,gbp,UK
+578,mid-level,QA Engineer,Testing,general,Birdie,small,healthtech,permenant,annual,80000,80000,gbp,UK
+579,lead,DevOps Lead,Infrastructure,general,Birdie,small,healthtech,permenant,annual,95000,95000,gbp,UK
+580,lead,Staff DevOps Engineer,Infrastructure,general,Birdie,small,healthtech,permenant,annual,95000,95000,gbp,UK
+581,mid-level,Senior DevOps Engineer,Infrastructure,general,Birdie,small,healthtech,permenant,annual,85000,85000,gbp,UK
+582,mid-level,DevOps Engineer,Infrastructure,general,Birdie,small,healthtech,permenant,annual,70000,70000,gbp,UK
+583,junior,Associate DevOps Engineer,Infrastructure,general,Birdie,small,healthtech,permenant,annual,45000,45000,gbp,UK
+584,junior,Intern DevOps Engineer,Infrastructure,general,Birdie,small,healthtech,permenant,annual,22000,22000,gbp,UK
+585,senior lead,Head of Product,Product,general,Birdie,small,healthtech,permenant,annual,120000,120000,gbp,UK
+586,lead,Product Lead,Product,general,Birdie,small,healthtech,permenant,annual,90000,90000,gbp,UK
+587,mid-level,Senior Product Manager,Product,general,Birdie,small,healthtech,permenant,annual,80000,80000,gbp,UK
+588,mid-level,Product Manager,Product,general,Birdie,small,healthtech,permenant,annual,65000,65000,gbp,UK
+589,junior,Associate Product Manager,Product,general,Birdie,small,healthtech,permenant,annual,45000,45000,gbp,UK
+590,junior,Intern Product Manager,Product,general,Birdie,small,healthtech,permenant,annual,22000,22000,gbp,UK
+591,senior lead,Finance Director,Finance,general,Birdie,small,healthtech,permenant,annual,175000,175000,gbp,UK
+592,senior lead,Head of Finance,Finance,general,Birdie,small,healthtech,permenant,annual,100000,100000,gbp,UK
+593,lead,Finance Lead Manager,Finance,general,Birdie,small,healthtech,permenant,annual,80000,80000,gbp,UK
+594,lead,Finance Senior Manager,Finance,general,Birdie,small,healthtech,permenant,annual,80000,80000,gbp,UK
+595,mid-level,Finance Manager,Finance,general,Birdie,small,healthtech,permenant,annual,60000,60000,gbp,UK
+596,mid-level,Finance Senior Analyst,Finance,general,Birdie,small,healthtech,permenant,annual,60000,60000,gbp,UK
+597,mid-level,Finance Analyst,Finance,general,Birdie,small,healthtech,permenant,annual,60000,60000,gbp,UK
+598,junior,Associate Finance Manager,Finance,general,Birdie,small,healthtech,permenant,annual,45000,45000,gbp,UK
+599,junior,Finance Assistance,Finance,general,Birdie,small,healthtech,permenant,annual,35000,35000,gbp,UK
+600,mid-level,Senior IT Manager,IT,general,Birdie,small,healthtech,permenant,annual,65000,65000,gbp,UK
+601,mid-level,IT Manager,IT,general,Birdie,small,healthtech,permenant,annual,55000,55000,gbp,UK
+602,senior lead,People Director,People,general,Birdie,small,healthtech,permenant,annual,95000,95000,gbp,UK
+603,senior lead,Head of People,People,general,Birdie,small,healthtech,permenant,annual,80000,80000,gbp,UK
+604,mid-level,People Manager,People,general,Birdie,small,healthtech,permenant,annual,75000,75000,gbp,UK
+605,lead,Lead People Partner,People,general,Birdie,small,healthtech,permenant,annual,70000,70000,gbp,UK
+606,lead,Lead People Associate Manager,People,general,Birdie,small,healthtech,permenant,annual,70000,70000,gbp,UK
+607,mid-level,Senior People Partner,People,general,Birdie,small,healthtech,permenant,annual,60000,60000,gbp,UK
+608,mid-level,People Partner,People,general,Birdie,small,healthtech,permenant,annual,45000,45000,gbp,UK
+609,junior,Associate People Partner,People,general,Birdie,small,healthtech,permenant,annual,30000,30000,gbp,UK
+610,senior lead,Talent Acquisition Director,Talent Acquisition,general,Birdie,small,healthtech,permenant,annual,100000,100000,gbp,UK
+611,senior lead,Head of Talent Acquisition,Talent Acquisition,general,Birdie,small,healthtech,permenant,annual,88000,88000,gbp,UK
+612,lead,Talent Acquisition Manager,Talent Acquisition,general,Birdie,small,healthtech,permenant,annual,75000,75000,gbp,UK
+613,lead,Talent Acquisition Principal,Talent Acquisition,general,Birdie,small,healthtech,permenant,annual,75000,75000,gbp,UK
+614,lead,Talent Acquisition Associate Manager,Talent Acquisition,general,Birdie,small,healthtech,permenant,annual,64000,64000,gbp,UK
+615,lead,Talent Acquisition Lead,Talent Acquisition,general,Birdie,small,healthtech,permenant,annual,64000,64000,gbp,UK
+616,mid-level,Senior Talent Acquisition Partner,Talent Acquisition,general,Birdie,small,healthtech,permenant,annual,53000,53000,gbp,UK
+617,mid-level,Talent Acquisition Partner,Talent Acquisition,general,Birdie,small,healthtech,permenant,annual,42000,42000,gbp,UK
+618,junior,Associate Talent Acquisition Partner,Talent Acquisition,general,Birdie,small,healthtech,permenant,annual,30000,30000,gbp,UK
+619,C-level,Chief Executive Officer,Senior Executive,general,Birdie,small,healthtech,permenant,annual,125000,125000,gbp,UK
+620,C-level,Chief Strategy Officer,Senior Executive,general,Birdie,small,healthtech,permenant,annual,125000,125000,gbp,UK
+621,C-level,Chief Product Officer,Senior Executive,general,Birdie,small,healthtech,permenant,annual,125000,125000,gbp,UK
+622,C-level,Chief of Staff,Senior Executive,general,Birdie,small,healthtech,permenant,annual,195000,195000,gbp,UK
+623,C-level,Chief Customer Officer,Senior Executive,general,Birdie,small,healthtech,permenant,annual,215000,215000,gbp,UK
+624,C-level,Chief Information Security Officer,Senior Executive,general,Birdie,small,healthtech,permenant,annual,125000,125000,gbp,UK
+625,senior lead,General Counsel,Operations,general,Birdie,small,healthtech,permenant,annual,100000,100000,gbp,UK
+626,senior lead,Head of Compliance,Operations,general,Birdie,small,healthtech,permenant,annual,120000,120000,gbp,UK
+627,senior lead,DPO,Operations,general,Birdie,small,healthtech,permenant,annual,120000,120000,gbp,UK
+628,junior,Junior Software Engineer,Software Engineering,general,Wise,medium,fintech,permenant,annual,115000,145000,usd,US
+629,junior,Junior Software Engineer,Software Engineering,general,Wise,medium,fintech,permenant,annual,45000,60000,gbp,UK
+630,junior,Junior Software Engineer,Software Engineering,general,Wise,medium,fintech,permenant,annual,35000,46000,euro,Estonia
+631,junior,Junior Software Engineer,Software Engineering,general,Wise,medium,fintech,permenant,annual,81000,108000,sgd,Singapore
+632,junior,Junior Software Engineer,Software Engineering,general,Wise,medium,fintech,permenant,month,800000,1100000,huf,Hungary
+633,mid-level,Software Engineer,Software Engineering,general,Wise,medium,fintech,permenant,annual,145000,180000,usd,US
+634,mid-level,Software Engineer,Software Engineering,general,Wise,medium,fintech,permenant,annual,60000,80000,gbp,UK
+635,mid-level,Software Engineer,Software Engineering,general,Wise,medium,fintech,permenant,annual,46000,64000,euro,Estonia
+636,mid-level,Software Engineer,Software Engineering,general,Wise,medium,fintech,permenant,annual,108000,147000,sgd,Singapore
+637,mid-level,Software Engineer,Software Engineering,general,Wise,medium,fintech,permenant,month,1100000,1500000,huf,Hungary
+638,mid-level,Senior Software Engineer,Software Engineering,general,Wise,medium,fintech,permenant,annual,170000,260000,usd,US
+639,mid-level,Senior Software Engineer,Software Engineering,general,Wise,medium,fintech,permenant,annual,80000,115000,gbp,UK
+640,mid-level,Senior Software Engineer,Software Engineering,general,Wise,medium,fintech,permenant,annual,64000,88000,euro,Estonia
+641,mid-level,Senior Software Engineer,Software Engineering,general,Wise,medium,fintech,permenant,annual,147000,204000,sgd,Singapore
+642,mid-level,Senior Software Engineer,Software Engineering,general,Wise,medium,fintech,permenant,month,1500000,2200000,huf,Hungary
+643,lead,Staff Software Engineer,Software Engineering,general,Wise,medium,fintech,permenant,annual,240000,300000,usd,US
+644,lead,Staff Software Engineer,Software Engineering,general,Wise,medium,fintech,permenant,annual,110000,150000,gbp,UK
+645,lead,Staff Software Engineer,Software Engineering,general,Wise,medium,fintech,permenant,annual,88000,105000,euro,Estonia
+646,lead,Staff Software Engineer,Software Engineering,general,Wise,medium,fintech,permenant,annual,204000,276000,sgd,Singapore
+647,lead,Staff Software Engineer,Software Engineering,general,Wise,medium,fintech,permenant,month,2100000,2500000,huf,Hungary
+648,lead,Principal Software Engineer,Software Engineering,general,Wise,medium,fintech,permenant,annual,300000,400000,usd,US
+649,lead,Principal Software Engineer,Software Engineering,general,Wise,medium,fintech,permenant,annual,140000,180000,gbp,UK
+650,lead,Principal Software Engineer,Software Engineering,general,Wise,medium,fintech,permenant,annual,98000,120000,euro,Estonia
+651,lead,Principal Software Engineer,Software Engineering,general,Wise,medium,fintech,permenant,annual,258000,330000,sgd,Singapore
+652,lead,Principal Software Engineer,Software Engineering,general,Wise,medium,fintech,permenant,month,2300000,2900000,huf,Hungary

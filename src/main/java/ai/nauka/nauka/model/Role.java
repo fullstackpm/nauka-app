@@ -2,62 +2,65 @@ package ai.nauka.nauka.model;
 
 import java.util.List;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+
+import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;
+import jakarta.persistence.FetchType;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
-import jakarta.persistence.Transient;
+import jakarta.persistence.JoinColumn;
+import jakarta.persistence.JoinTable;
+import jakarta.persistence.ManyToMany;
+import jakarta.persistence.OneToMany;
 
 @Entity
 public class Role {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
-    private long id;
-    private String jobTitle;
-    private int totalEntries;
-    private double minSalary;
-    private double maxSalary;
-    private double medianSalary;
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private long roleId;
+    private String roleName;
+    private String roleDiscipline;
 
-    @Transient
-    private List<Salary> salaries;
+    @ManyToMany(cascade = {CascadeType.DETACH, CascadeType.MERGE, CascadeType.REFRESH, CascadeType.PERSIST}, 
+        fetch = FetchType.LAZY)
+    @JoinTable(name = "role_skill", 
+        joinColumns = @JoinColumn(name="role_id"), 
+        inverseJoinColumns = @JoinColumn(name="skill_id"))
+    @JsonIgnore
+    List<Skill> skills;
+    @OneToMany(mappedBy = "role")
+    @JsonIgnore
+    List<Salary> salaries;
 
-    public long getId() {
-        return id;
+    public long getRoleId() {
+        return roleId;
     }
-    public void setId(long id) {
-        this.id = id;
+    public void setRoleId(long roleId) {
+        this.roleId = roleId;
     }
-    public String getJobTitle() {
-        return jobTitle;
+    public String getRoleName() {
+        return roleName;
     }
-    public void setJobTitle(String jobTitle) {
-        this.jobTitle = jobTitle;
+    public void setRoleName(String roleName) {
+        this.roleName = roleName;
     }
-    public int getTotalEntries() {
-        return totalEntries;
+    public String getRoleDiscipline() {
+        return roleDiscipline;
     }
-    public void setTotalEntries(int totalEntries) {
-        this.totalEntries = totalEntries;
+    public void setDiscipline(String roleDiscipline) {
+        this.roleDiscipline = roleDiscipline;
     }
-    public double getMinSalary() {
-        return minSalary;
+    public List<Skill> getSkills() {
+        return skills;
     }
-    public void setMinSalary(double minSalary) {
-        this.minSalary = minSalary;
+    public void setSkills(List<Skill> skills) {
+        this.skills = skills;
     }
-    public double getMaxSalary() {
-        return maxSalary;
-    }
-    public void setMaxSalary(double maxSalary) {
-        this.maxSalary = maxSalary;
-    }
-    public double getMedianSalary() {
-        return medianSalary;
-    }
-    public void setMedianSalary(double medianSalary) {
-        this.medianSalary = medianSalary;
+    public void setRoleDiscipline(String roleDiscipline) {
+        this.roleDiscipline = roleDiscipline;
     }
     public List<Salary> getSalaries() {
         return salaries;
@@ -65,24 +68,14 @@ public class Role {
     public void setSalaries(List<Salary> salaries) {
         this.salaries = salaries;
     }
-    
-    public Role(String jobTitle, int totalEntries, double minSalary, double maxSalary, double medianSalary) {
-        this.jobTitle = jobTitle;
-        this.totalEntries = totalEntries;
-        this.minSalary = minSalary;
-        this.maxSalary = maxSalary;
-        this.medianSalary = medianSalary;
+    public Role(long roleId, String roleName, String roleDiscipline) {
+        this.roleId = roleId;
+        this.roleName = roleName;
+        this.roleDiscipline = roleDiscipline;
     }
 
     public Role() {
     }
 
-    @Override
-    public String toString() {
-        return "Role [jobTitle=" + jobTitle + ", totalEntries=" + totalEntries + ", minSalary=" + minSalary
-                + ", maxSalary=" + maxSalary + ", medianSalary=" + medianSalary + "]";
-    }
 
-    
-    
 }
