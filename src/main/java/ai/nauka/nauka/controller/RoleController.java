@@ -1,5 +1,7 @@
 package ai.nauka.nauka.controller;
 
+import java.util.List;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.CrossOrigin;
@@ -7,6 +9,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import ai.nauka.nauka.data.RoleDTO;
@@ -22,6 +25,15 @@ public class RoleController {
 
     public RoleController(RoleRepository roleRepository) {
         this.roleRepository = roleRepository;
+    }
+
+    @GetMapping("/roles")
+    public List<Role> getRolesByDiscipline(@RequestParam(value = "discipline", required = false) String roleDiscipline) {
+        if (roleDiscipline == null || roleDiscipline.isEmpty()) {
+            return roleRepository.getAllRole();
+        } else {
+            return roleRepository.getAllRoleByDiscipline(roleDiscipline);
+        }
     }
 
     @GetMapping("/roles/{roleName}")
