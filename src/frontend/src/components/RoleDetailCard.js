@@ -1,10 +1,9 @@
 import { React } from 'react';
 
-export const RoleDetailCard = () => {
+export const RoleDetailCard = ({skill}) => {
   return (
     <div className="RoleDetailCard">
-      <h3>Highest salaries</h3>
-      <h4>Role details</h4>
+      <p>{skill.skillName}</p>
     </div>
   );
 }

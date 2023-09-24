@@ -1,9 +1,17 @@
-import { React } from 'react';
+import React from 'react';
 
-export const RoleSmallCard = ({role}) => {
+export const RoleSmallCard = ({ salary }) => {
+
+  const age = salary.age;
+  const gender = salary.gender;
+  const educationLevel = salary.educationLevel;
+  const yearsOfExperience = salary.yearsOfExperience;
+  const basicSalary = salary.basicSalary;
+  const currency = salary.currency;
+
   return (
     <div className="RoleSmallCard">
-      <p>{role.skillName}</p>
+      <p> Age = {age}, gender = {gender}, educationLevel = {educationLevel}, yearsOfExperience = {yearsOfExperience}, basicSalary = {basicSalary}, currency = {currency}</p>
     </div>
   );
-}
+};
