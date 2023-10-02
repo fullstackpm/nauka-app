@@ -29,6 +29,7 @@ public class Skill {
     @JoinTable(name = "role_skill", 
         joinColumns = @JoinColumn(name="skill_id"), 
         inverseJoinColumns = @JoinColumn(name="role_id"))
+    @JsonIgnore
     private List<Role> roles;
     
     

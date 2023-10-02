@@ -9,8 +9,8 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/roles/discipline/:discipline" element={<RolesPage />}/>
         <Route path="/roles/name/:roleName" element={<RolePage />}/>
+        <Route path="/roles/:discipline" element={<RolesPage />}/>
         <Route path="/roles" element={<RolesPage />} />
       </Routes>
     </Router>

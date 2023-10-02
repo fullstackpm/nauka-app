@@ -6,4 +6,5 @@ import ai.nauka.nauka.model.Skill;
 
 public interface SkillRepository extends CrudRepository<Skill, Long> {
     
+    
 }
