@@ -2,9 +2,12 @@ package ai.nauka.nauka.data;
 
 import java.util.List;
 
+import org.springframework.stereotype.Service;
+
 import ai.nauka.nauka.model.Salary;
 import ai.nauka.nauka.model.Skill;
 
+@Service
 public class RoleDTO {
     private long roleId;
     private String roleName;
@@ -18,8 +21,8 @@ public class RoleDTO {
     private double diffMaxSalary;
     private double rolePercentile;
     private List<Skill> skills;
-    private List<Salary> salaries;
-    
+    private List<Salary> salaries;    
+
     public long getRoleId() {
         return roleId;
     }
