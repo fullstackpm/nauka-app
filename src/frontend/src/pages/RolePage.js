@@ -8,6 +8,8 @@ import { ExpectedSalary } from '../components/ExpectedSalary';
 import { InfluentialFactors } from '../components/InfluentialFactors';
 import { SalarySummary } from '../components/SalarySummary';
 
+import './RolePage.scss';
+
 export const RolePage = () => {
 
     const [role, setRole] = useState({});
