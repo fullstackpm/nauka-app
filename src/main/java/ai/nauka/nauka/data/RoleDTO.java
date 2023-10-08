@@ -13,6 +13,7 @@ public class RoleDTO {
     private String roleName;
     private String roleDiscipline;
     private double userSalary;
+    private String currency;
     private double medSalary;
     private double minSalary;
     private double maxSalary;
@@ -21,7 +22,7 @@ public class RoleDTO {
     private double diffMaxSalary;
     private double rolePercentile;
     private List<Skill> skills;
-    private List<Salary> salaries;    
+    private List<Salary> salaries;
 
     public long getRoleId() {
         return roleId;
@@ -101,7 +102,12 @@ public class RoleDTO {
     public void setUserSalary(double userSalary) {
         this.userSalary = userSalary;
     }
-
+    public String getCurrency() {
+        return currency;
+    }
+    public void setCurrency(String currency) {
+        this.currency = currency;
+    }
     public double medianValue(List<Salary> salaries) {
         double medSalary = 0;
 

@@ -35,16 +35,6 @@ public class GlobalService {
 
         double userSalary = 80000;
 
-        // Extract all salaries from all roles.
-        // List<Salary> allSalaries = new ArrayList<>();
-        //     for (Role role : roles) {
-        //         allSalaries.addAll(role.getSalaries());
-        //     }
-
-        //     if (allSalaries.isEmpty()) {
-        //         return null;
-        //     }
-
             // Sort all salaries.
             Collections.sort(salaries, Comparator.comparingDouble(Salary::getBasicSalary));
 

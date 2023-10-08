@@ -15,4 +15,25 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: lightgray;
+}
+
+:root {
+  --mint-green-colour: #91d4d1;
+  --cool-green-colour: #6fb9b9;
+  --ocean-colour: #205566;
+  --purple-colour: #69587b;
+  --coral-colour: #f16a6f;
+  --pale-orange-colour: #fea899;
+  --pink-colour: #fadadd;
+
+  /*
+    Colour pairings:
+    - mint & cool green
+    - mint & ocean
+    - mint & purple
+    - mint & coral
+    - mint & pale orange
+    - mint & pink
+  */
 }

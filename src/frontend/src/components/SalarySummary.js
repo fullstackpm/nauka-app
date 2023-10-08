@@ -1,14 +1,17 @@
 import { React } from 'react';
 
-export const SalarySummary = ({userSalary, medSalary, minSalary, maxSalary}) => {
+import './SalarySummary.scss';
 
+export const SalarySummary = ({userSalary, medSalary, minSalary, maxSalary, currency}) => {
+
+  const formattedNumber = new Intl.NumberFormat('en-US', { style: 'currency', currency: currency.toUpperCase() }).format(userSalary);
   return (
 
     <div className="SalarySummary">
-        <p>your salary: {userSalary}</p>
-        <p>median salary: {medSalary}</p>
+        <span>{formattedNumber}</span>
+        {/* <p>median salary: {medSalary}</p>
         <p>min salary: {minSalary}</p>
-        <p>max salary: {maxSalary}</p>
+        <p>max salary: {maxSalary}</p> */}
     </div>
   );
 }

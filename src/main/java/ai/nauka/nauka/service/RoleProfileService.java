@@ -33,6 +33,8 @@ public class RoleProfileService {
         List<Skill> skills = skillRepository.findSkillsByRoleName(roleName);
         RoleDTO roleDTO = new RoleDTO();
 
+        Collections.sort(salaries, Comparator.comparingDouble(Salary::getBasicSalary));
+
         int size = salaries.size();
         double userSalary = 80000;
         double minSalary = salaries.get(0).getBasicSalary();
@@ -48,9 +50,9 @@ public class RoleProfileService {
         roleDTO.setRoleDiscipline(role.getRoleDiscipline());
         roleDTO.setSkills(skills); // Include the skills
         roleDTO.setSalaries(salaries);
-        Collections.sort(salaries, Comparator.comparingDouble(Salary::getBasicSalary));
 
         roleDTO.setUserSalary(userSalary);
+        roleDTO.setCurrency(salaries.get(0).getCurrency());
         roleDTO.setMedSalary(medSalary);
         roleDTO.setMinSalary(minSalary);
         roleDTO.setMaxSalary(maxSalary);
@@ -61,48 +63,4 @@ public class RoleProfileService {
 
         return roleDTO;
     }
-    
 }
-
-
-//  @GetMapping("/roles/{roleName}")
-//     public RoleDTO getRole(@PathVariable String roleName) {
-//         Role role = roleRepository.findByRoleName(roleName);
-        
-//         // Role global = roleRepository.findAllByRole();
-
-//         RoleDTO roleDTO = new RoleDTO();
-
-//         List<Salary> salaries = role.getSalaries();
-//         Collections.sort(salaries, Comparator.comparingDouble(Salary::getBasicSalary));
-
-//         int size = salaries.size();
-//         double userSalary = 80000;
-
-//         double minSalary = salaries.get(0).getBasicSalary();
-//         double maxSalary = salaries.get(size-1).getBasicSalary();
-//         double medSalary = roleDTO.medianValue(salaries);
-//         double salaryPercentile = roleDTO.percentileValue(salaries, userSalary);
-
-//         double diffMinSalary = userSalary - minSalary;
-//         double diffMaxSalary = userSalary - maxSalary;
-//         double diffMedSalary = userSalary - medSalary;
-
-//         if (role == null) {
-//             return null;
-//         }
-//             roleDTO.setRoleId(role.getRoleId());
-//             roleDTO.setRoleName(role.getRoleName());
-//             roleDTO.setRoleDiscipline(role.getRoleDiscipline());
-//             roleDTO.setSkills(role.getSkills()); // Include the skills
-//             roleDTO.setSalaries(role.getSalaries());
-//             roleDTO.setUserSalary(userSalary);
-//             roleDTO.setMedSalary(medSalary);
-//             roleDTO.setMinSalary(minSalary);
-//             roleDTO.setMaxSalary(maxSalary);
-//             roleDTO.setDiffMedSalary(diffMedSalary);
-//             roleDTO.setDiffMinSalary(diffMinSalary);
-//             roleDTO.setDiffMaxSalary(diffMaxSalary);
-//             roleDTO.setRolePercentile(salaryPercentile);
-//             return roleDTO;
-//         }
