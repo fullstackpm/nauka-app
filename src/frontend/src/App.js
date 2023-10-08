@@ -19,16 +19,4 @@ function App() {
   );
 }
 
-
-// function App() {
-//   return (
-//     <Router>
-//       <Routes>
-//         <Route path="/roles/a/:discipline" element={<RolesPage />}/>
-//         <Route path="/roles/:roleName" element={<RolePage />}/>
-//       </Routes>
-//     </Router>
-//   );
-// }
-
 export default App;

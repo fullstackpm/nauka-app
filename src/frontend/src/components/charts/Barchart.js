@@ -1,6 +1,6 @@
 // import React, { useEffect, useRef } from 'react';
 import { Chart as ChartJS, CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend } from "chart.js";
-// import { Bar } from "react-chartjs-2";
+import { Bar } from "react-chartjs-2";
 
 ChartJS.register(
     CategoryScale,
@@ -37,7 +37,7 @@ export const Barchart = ({ userSalary, medianSalary, label1, label2 }) => {
 
   return (
         <>
-            <Barchart 
+            <Bar 
                 options={options}
                 data={data}
             />

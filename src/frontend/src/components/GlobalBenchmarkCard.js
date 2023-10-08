@@ -9,7 +9,7 @@ export const GlobalBenchmarkCard = ({userSalary, medianSalary}) => {
 
   return (
 
-    <div className="RoleBenchmarkCard">
+    <div className="GlobalBenchmarkCard">
       <p>Difference between median salary: {formattedNumber}</p>
       {/* <p>Difference between min salary: {diffMinSalary}</p>
       <p>Difference between max salary: {diffMaxSalary}</p> */}
