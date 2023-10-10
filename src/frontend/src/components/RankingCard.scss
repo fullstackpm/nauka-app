@@ -1,0 +1,8 @@
+.doughnut-container {
+    display: flex;
+    justify-content: space-between;  /* This will give some space between the two charts */
+    align-items: center;  /* This will vertically center the charts */
+    padding: 10px;  /* Give some padding to make sure charts are not touching the borders */
+    width: 300px;  /* adjust this as necessary */
+    height: 300px;  /* adjust this as necessary */
+}

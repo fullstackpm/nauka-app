@@ -46,7 +46,11 @@ public class RoleController {
 
     @GetMapping("/roles")
     public List<Role> getRolesByDiscipline(@RequestParam(value = "discipline", required = false) String roleDiscipline) {
-        return roleRepository.findRolesByDiscipline(roleDiscipline);
+        if(roleDiscipline != null) {
+            return roleProfileService.getRolesAndSalariesByDiscipline(roleDiscipline);
+        } else {
+            return roleRepository.findAll();
+        }
     }
 
 

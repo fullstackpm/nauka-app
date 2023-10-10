@@ -19,5 +19,8 @@ public interface RoleRepository extends CrudRepository<Role, Long> {
     
     @Query("SELECT r FROM Role r WHERE (:roleDiscipline IS NULL OR r.roleDiscipline = :roleDiscipline)")
     List<Role> findRolesByDiscipline(@Param("roleDiscipline") String roleDiscipline);
-    
+
+    @Query("SELECT r FROM Role r JOIN FETCH r.salaries s WHERE r.roleDiscipline = :roleDiscipline AND r.roleName = s.roleName")
+    List<Role> findRolesAndSalariesByDiscipline(@Param("roleDiscipline") String roleDiscipline);
+
 }

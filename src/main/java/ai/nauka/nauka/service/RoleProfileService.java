@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 
 import ai.nauka.nauka.data.RoleDTO;
+import ai.nauka.nauka.data.RoleDisciplineDTO;
 import ai.nauka.nauka.model.Role;
 import ai.nauka.nauka.model.Salary;
 import ai.nauka.nauka.model.Skill;
@@ -62,5 +63,10 @@ public class RoleProfileService {
         roleDTO.setRolePercentile(salaryPercentile);
 
         return roleDTO;
+    }
+
+    public List<Role> getRolesAndSalariesByDiscipline(String roleDiscipline) {
+        
+        return roleRepository.findRolesAndSalariesByDiscipline(roleDiscipline);
     }
 }

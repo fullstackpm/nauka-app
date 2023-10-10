@@ -1,6 +1,13 @@
 import { React, useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import { RolesCard } from '../components/RolesCard';
+import Table from '@mui/material/Table';
+import TableBody from '@mui/material/TableBody';
+import TableCell from '@mui/material/TableCell';
+import TableContainer from '@mui/material/TableContainer';
+import TableHead from '@mui/material/TableHead';
+import TableRow from '@mui/material/TableRow';
+import Paper from '@mui/material/Paper';
 
 export const RolesPage = () => {
 
@@ -45,10 +52,22 @@ export const RolesPage = () => {
     
     return (
         <div className="RolesPage">
-            <h1>Roles page</h1>
-            {
-                roles.map(role => <RolesCard key={role.roleId} role={role} />)
-            }
+            <h1>Roles</h1>
+            <br></br>
+            <TableContainer component={Paper}>
+                <Table sx={{ minWidth: 650 }} aria-label="simple table">
+                <TableHead>
+                    <TableRow>
+                    <TableCell style={{ fontWeight: 'bold' }}>Role name</TableCell>
+                    <TableCell style={{ fontWeight: 'bold' }}>Discipline</TableCell>
+                    <TableCell style={{ fontWeight: 'bold' }}>Median Salary</TableCell>
+                    </TableRow>
+                </TableHead>
+                <TableBody>
+                    {roles.map(role => <RolesCard key={role.roleId} role={role} />)}
+                </TableBody>
+                </Table>
+            </TableContainer>
         </div>
     );
 }

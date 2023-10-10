@@ -1,7 +1,7 @@
 import { React, useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 // import { RoleDetailCard } from '../components/RoleDetailCard';
-import { RoleSmallCard } from '../components/RoleSmallCard';
+import { AllRolesCard } from '../components/AllRolesCard';
 import { RankingCard } from '../components/RankingCard';
 import { RoleBenchmarkCard } from '../components/RoleBenchmarkCard';
 import { GlobalBenchmarkCard } from '../components/GlobalBenchmarkCard';
@@ -10,6 +10,7 @@ import { ExpectedSalary } from '../components/ExpectedSalary';
 import { SalarySummary } from '../components/SalarySummary';
 
 import './RolePage.scss';
+import { RoleNavbar } from '../components/RoleNavbar';
 
 export const RolePage = () => {
 
@@ -52,14 +53,19 @@ export const RolePage = () => {
     }
     return (
         <div className="RolePage">
-            <div className='role-name-section'>
-                <h1>{role.roleName}</h1>
-            </div>
             <div className='page-body'>
-                <div className='salary-summary-section'>
-                <h3>Summary</h3>
+                <div className='role-name-section'>
+                    <h1>{role.roleName}</h1>
+                </div>
+                <div className='role-navbar-section'>
                 {
-                    <SalarySummary userSalary={role.userSalary} currency={role.currency} medSalary={role.medSalary} minSalary={role.minSalary} maxSalary={role.maxSalary}/>
+                    <RoleNavbar role={role}/>
+                }   
+                </div>
+                <div className='salary-summary-section'>
+                <h3>Your salary</h3>
+                {
+                    <SalarySummary userSalary={role.userSalary} currency={role.currency} />
                 }
                 </div>
                 <div className='expected-salary-section'>
@@ -71,7 +77,7 @@ export const RolePage = () => {
                 <div className='salary-ranking-section'>
                     <h3>Ranking</h3>
                     {
-                        <RankingCard rolePercentile={role.rolePercentile} globalPercentile={global.percentile}/>
+                        <RankingCard roleName={role.roleName} rolePercentile={role.rolePercentile} globalPercentile={global.percentile}/>
                     }
                 </div>
                 <div className='role-benchmark-section'>
@@ -86,35 +92,13 @@ export const RolePage = () => {
                         <GlobalBenchmarkCard userSalary={role.userSalary} medianSalary={global.globalMedianSalary}/>
                     }
                 </div>
-                {/* <div>
-                    <h3>Influential factors</h3>
-                    {
-                        <InfluentialFactors />
-                    }
-                </div>
-                <div>
-                    <h3>All skills</h3>
-                    {
-                        role.skills?.map((skill) => (<RoleDetailCard key={skill.skillId} skill={skill} />))
-                    }
-                </div> */}
                 <div className='all-salaries-section'>
                     <h3>All salaries</h3>
                     {
-                        role.salaries?.map((salary) => (<RoleSmallCard key={salary.salaryId} salary={salary} />))
+                        <AllRolesCard key={role.roleId} role={role} />
                     }
                 </div>
-                {/* <div>
-                    <h3>Industry salaries</h3>
-                    <p>LinkedIn median salary</p>
-                    <p>Glassdoor median salary</p>
-                </div>
-                <div>
-                    <h3>Available jobs</h3>
-                    <p>LinkedIn median salary based on current jobs</p>
-                    <p>Glassdoor median salary based on current jobs</p>
-                </div> */}
-                </div>
+            </div>
         </div>
     );
 }

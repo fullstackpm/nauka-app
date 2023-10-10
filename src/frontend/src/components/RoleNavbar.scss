@@ -1,0 +1,27 @@
+.role-navbar-section {
+    display: flex;
+    align-items: center;  // To vertically center the h1 and nav
+    justify-content: space-between;  // This will push the h1 to the far left and the nav to the far right
+
+    nav {
+        ul {
+            display: flex;
+            list-style: none;  // To remove bullet points
+            padding: 0;  // To remove default padding
+
+            li {
+                margin-left: 60px;  // To provide space between list items
+
+                a {
+                    text-decoration: none;  // Optional. To remove underline from the links
+                    color: inherit;  // Optional. To make the links have the same color as the text
+                }
+            }
+        }
+    }
+
+    .active {
+        text-decoration: underline;   // or any other styling you prefer for active links
+    }
+    
+}

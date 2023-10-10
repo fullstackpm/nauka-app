@@ -1,37 +1,43 @@
-.role-name-section {
-   margin-bottom: 20px;
-}
-
 .page-body {
     display: grid;
-    grid-template-columns: repeat(6, 1fr);
-    grid-template-rows: auto auto auto;
+    grid-template-columns: repeat(10, 1fr);
+    grid-template-rows: auto auto auto auto;
     row-gap: 10px;
 
+    .role-name-section {
+        display: flex;
+        justify-content: space-between;
+        grid-column: span 5;
+     }
+
+     .role-navbar-section {
+        // margin-bottom: 20px;
+        grid-column: span 5;
+     }
 
     .salary-summary-section {
-        grid-column: span 2;
+        grid-column: span 3;
         background-color: white;
         margin: 0 5px;
         padding: 10px;
     }
 
     .expected-salary-section {
-        grid-column: span 2;
+        grid-column: span 3;
         background-color: white;
         margin: 0 5px;
         padding: 10px;
     }
 
     .salary-ranking-section {
-        grid-column: span 2;
+        grid-column: span 4;
         background-color: white;
         margin: 0 5px;
         padding: 10px;
     }
 
     .role-benchmark-section {
-        grid-column: span 3;
+        grid-column: span 5;
         align-self: center;
         background-color: white;
         margin: 0 5px;
@@ -39,7 +45,7 @@
     }
 
     .global-benchmark-section {
-        grid-column: span 3;
+        grid-column: span 5;
         align-self: center;
         background-color: white;
         margin: 0 5px;
@@ -47,7 +53,7 @@
     }
 
     .all-salaries-section {
-        grid-column: span 6;
+        grid-column: span 10;
         background-color: white;
         margin: 0 5px;
         padding: 10px;

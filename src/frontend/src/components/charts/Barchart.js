@@ -21,6 +21,18 @@ export const Barchart = ({ userSalary, medianSalary, label1, label2 }) => {
             legend: {
                 display: false  // This will hide the legend
             }
+        },
+        scales: {
+            x: { // this will remove the grid lines along the X axis
+                grid: {
+                    display: false
+                }
+            },
+            y: { // this will remove the grid lines along the Y axis
+                grid: {
+                    display: false
+                }
+            }
         }
     }
     
